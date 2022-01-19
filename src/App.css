@@ -1,14 +1,23 @@
-.FlexContainer {
+.flex-container {
   display: flex;
   justify-content: space-between;
   min-width: 400px;
   list-style-type: none;
 }
 
-.NavBrand {
+.nav-brand {
   text-decoration: none;
   text-align: center;
   margin: 16px;
+}
+
+.nav-link {
+  text-decoration: none;
+}
+
+a:hover, a:active, a:focus {
+  text-decoration: underline;
+  color: darkblue;
 }
 
 .slide-background-loaded.slide-background-fade-in {

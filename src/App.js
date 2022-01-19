@@ -9,16 +9,16 @@ function App() {
   return (
     <div className="App">
       <Navbar >
-        <a href='#' className='NavBrand'>
+        <a href='#' className='nav-brand'>
           <img />
           Jackk
         </a>
-        <ul className='FlexContainer'>
+        <ul className='flex-container'>
           <li>
-            <a>Meubels op maat</a>  
+            <a href='#meubels-op-maat' className='nav-link'>Meubels op maat</a>  
           </li>
           <li>
-            <a>Over mij</a>  
+            <a href='#over-mij' className='nav-link'>Over mij</a>  
           </li>
         </ul>
       </Navbar>
