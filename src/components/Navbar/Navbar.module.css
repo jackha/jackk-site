@@ -1,0 +1,15 @@
+.Container {
+    margin: 0 auto;
+    padding: 0;
+    text-transform: uppercase;
+    width: 100%;
+    text-align: center;
+    font-size: 1rem;
+    display: flex;
+    justify-content: space-around;
+    opacity: 0.7;
+    background-color: white;
+    top: 0;
+    position: fixed;
+    z-index: 4;
+  }

@@ -1,0 +1,105 @@
+import React from "react";
+// JSX
+import HeroSlider, { Slide, Nav, OverlayContainer } from "hero-slider";
+import Wrapper from "../Wrapper/Wrapper";
+import Title from "../Title/Title";
+import Subtitle from "../Subtitle/Subtitle";
+
+// Images
+import bar from './images/bar.jpg';
+import kattenmeubel from './images/kattenmeubel.jpg';
+import schaakbord from './images/schaakbord.jpg';
+import wandkast from './images/wandkast_5.jpg' ;
+
+const app = () => {
+  // const nextSlideHandler = React.useRef();
+  // const previousSlideHandler = React.useRef();
+
+  return (
+    <HeroSlider
+      // TODO: add custom next slide previous slide buttons as regular ones don't seem to work properly
+      // nextSlide={nextSlideHandler}
+      // previousSlide={previousSlideHandler}
+      slidingAnimation="left_to_right"
+      orientation="horizontal"
+      initialSlide={1}
+      // onBeforeChange={(previousSlide, nextSlide) =>
+      //   console.log("onBeforeChange", previousSlide, nextSlide)
+      // }
+      // onChange={nextSlide => console.log("onChange", nextSlide)}
+      // onAfterChange={nextSlide => console.log("onAfterChange", nextSlide)}
+      style={{
+        backgroundColor: "rgba(0, 0, 0, 0.33)"
+      }}
+      settings={{
+        slidingDuration: 250,
+        slidingDelay: 100,
+        shouldAutoplay: true,
+        shouldDisplayButtons: true,
+        autoplayDuration: 5000,
+        height: "100vh"
+      }}
+    >
+      <OverlayContainer>
+        <Wrapper>
+          <Title>Jackk</Title>
+          <Subtitle>Meubels op maat</Subtitle>
+          {/* <div>
+            <Button
+              style={{
+                width: 100,
+                margin: "12px 8px"
+              }}
+              button="danger"
+              onClick={() => previousSlideHandler.current()}
+            >
+              Previous
+            </Button>
+            <Button
+              style={{
+                width: 100,
+                margin: "12px 8px"
+              }}
+              button="success"
+              onClick={() => nextSlideHandler.current()}
+            >
+              Next
+            </Button>
+          </div> */}
+        </Wrapper>
+      </OverlayContainer>
+
+      <Slide
+        background={{
+          backgroundImage: wandkast,
+          backgroundAttachment: "fixed"
+        }}
+      />
+
+      <Slide
+        background={{
+          backgroundImage: bar,
+          backgroundAttachment: "fixed"
+        }}
+      />
+
+      <Slide
+        background={{
+          backgroundImage: kattenmeubel,
+          backgroundAttachment: "fixed"
+        }}
+      />
+
+      <Slide
+        background={{
+          backgroundImage: schaakbord,
+          backgroundAttachment: "fixed"
+        }}
+      />
+
+      <Nav />
+    </HeroSlider>
+  );
+};
+
+export default app;

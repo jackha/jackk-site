@@ -1,0 +1,12 @@
+.FlexContainer {
+    display: flex;
+    justify-content: space-between;
+    min-width: 400px;
+    list-style-type: none;
+}
+
+.NavBrand {
+    text-decoration: none;
+    text-align: center;
+    margin: 16px;
+}
