@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.55a074d6.css",
-    "main.js": "/static/js/main.7c06e7fb.js",
+    "main.css": "/static/css/main.9b7b38fb.css",
+    "main.js": "/static/js/main.b0dbff10.js",
     "static/js/787.c3745516.chunk.js": "/static/js/787.c3745516.chunk.js",
     "static/media/kattenmeubel.jpg": "/static/media/kattenmeubel.72c39aaf0c47188956e9.jpg",
     "static/media/bar.jpg": "/static/media/bar.d801c23bd52843995bdf.jpg",
     "static/media/wandkast_5.jpg": "/static/media/wandkast_5.25f710227198d74df025.jpg",
     "static/media/schaakbord.jpg": "/static/media/schaakbord.5d52e7f0d0026d51042e.jpg",
+    "static/media/jackk-logo-klein.png": "/static/media/jackk-logo-klein.2d40c982fdec9390a9b6.png",
     "index.html": "/index.html",
-    "main.55a074d6.css.map": "/static/css/main.55a074d6.css.map",
-    "main.7c06e7fb.js.map": "/static/js/main.7c06e7fb.js.map",
+    "main.9b7b38fb.css.map": "/static/css/main.9b7b38fb.css.map",
+    "main.b0dbff10.js.map": "/static/js/main.b0dbff10.js.map",
     "787.c3745516.chunk.js.map": "/static/js/787.c3745516.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.55a074d6.css",
-    "static/js/main.7c06e7fb.js"
+    "static/css/main.9b7b38fb.css",
+    "static/js/main.b0dbff10.js"
   ]
 }
