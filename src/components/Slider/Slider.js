@@ -2,8 +2,11 @@ import React from "react";
 // JSX
 import HeroSlider, { Slide, Nav, OverlayContainer } from "hero-slider";
 import Wrapper from "../Wrapper/Wrapper";
-import Title from "../Title/Title";
-import Subtitle from "../Subtitle/Subtitle";
+// import Title from "../Title/Title";
+// import Subtitle from "../Subtitle/Subtitle";
+// // CSS
+// import classes from './Slider.module.css'
+// import Logo from "./../../assets/jackk-logo.png";
 
 // Images
 import bar from './images/bar.jpg';
@@ -42,8 +45,8 @@ const app = () => {
     >
       <OverlayContainer>
         <Wrapper>
-          <Title>Jackk</Title>
-          <Subtitle>Meubels op maat</Subtitle>
+          {/* <Title><img className={classes.Logo} src={Logo} /></Title>
+          <Subtitle>Meubels op maat</Subtitle> */}
           {/* <div>
             <Button
               style={{

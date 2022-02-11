@@ -4,23 +4,25 @@ import CustomFurniture from "./components/CustomFurniture/CustomFurniture";
 import Navbar from "./components/Navbar/Navbar";
 import Slider from "./components/Slider/Slider";
 
+import SmallLogo from "./assets/jackk-logo-klein.png";
+
 
 function App() {
   return (
     <div className="App">
       <Navbar >
         <a href='#' className='nav-brand'>
-          <img />
-          Jackk
+          <img className='logo' src={SmallLogo} alt='Jackk meubels'/>
         </a>
-        <ul className='flex-container'>
-          <li>
+        {/* more menu stuff, not needed for now */}
+        {/* <ul className='flex-container'>
+          <li className='flex-item'>
             <a href='#meubels-op-maat' className='nav-link'>Meubels op maat</a>  
           </li>
-          <li>
+          <li className='flex-item'>
             <a href='#over-mij' className='nav-link'>Over mij</a>  
           </li>
-        </ul>
+        </ul> */}
       </Navbar>
       <Slider />
       <CustomFurniture />
