@@ -39,6 +39,19 @@ a:hover, a:active, a:focus {
   top: 0;
 }
 
+.site-contents {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+@media only screen and (min-width: 800px) {
+  .site-contents {
+    width: 780px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
 html { 
   scroll-behavior: smooth
 }
