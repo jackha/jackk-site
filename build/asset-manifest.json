@@ -1,20 +1,21 @@
 {
   "files": {
     "main.css": "/static/css/main.c4b119ed.css",
-    "main.js": "/static/js/main.f0069a10.js",
+    "main.js": "/static/js/main.f9cf6b2d.js",
     "static/js/787.c3745516.chunk.js": "/static/js/787.c3745516.chunk.js",
-    "static/media/kattenmeubel.jpg": "/static/media/kattenmeubel.72c39aaf0c47188956e9.jpg",
-    "static/media/bar.jpg": "/static/media/bar.d801c23bd52843995bdf.jpg",
-    "static/media/wandkast_5.jpg": "/static/media/wandkast_5.25f710227198d74df025.jpg",
-    "static/media/schaakbord.jpg": "/static/media/schaakbord.5d52e7f0d0026d51042e.jpg",
+    "static/media/hero-muurkast-IMG_3397_edit.jpg": "/static/media/hero-muurkast-IMG_3397_edit.e68162f9aa11ba8b71c0.jpg",
+    "static/media/hero-bar.jpg": "/static/media/hero-bar.a8cdf23b2c6cc45680de.jpg",
+    "static/media/hero-crazy-cat-contraption-IMG_20201202_121855_edit.jpg": "/static/media/hero-crazy-cat-contraption-IMG_20201202_121855_edit.048f4a497c4f9889416f.jpg",
+    "static/media/hero-ronde-tafel.jpg": "/static/media/hero-ronde-tafel.075d5e29bc2ec117000a.jpg",
+    "static/media/hero-chess-DSCF4468_edit.jpg": "/static/media/hero-chess-DSCF4468_edit.2cedf20ff9fad55ca21c.jpg",
     "static/media/jackk-logo-klein.png": "/static/media/jackk-logo-klein.2d40c982fdec9390a9b6.png",
     "index.html": "/index.html",
     "main.c4b119ed.css.map": "/static/css/main.c4b119ed.css.map",
-    "main.f0069a10.js.map": "/static/js/main.f0069a10.js.map",
+    "main.f9cf6b2d.js.map": "/static/js/main.f9cf6b2d.js.map",
     "787.c3745516.chunk.js.map": "/static/js/787.c3745516.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c4b119ed.css",
-    "static/js/main.f0069a10.js"
+    "static/js/main.f9cf6b2d.js"
   ]
 }
