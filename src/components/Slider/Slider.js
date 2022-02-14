@@ -9,10 +9,11 @@ import Wrapper from "../Wrapper/Wrapper";
 // import Logo from "./../../assets/jackk-logo.png";
 
 // Images
-import bar from './images/bar.jpg';
-import kattenmeubel from './images/kattenmeubel.jpg';
-import schaakbord from './images/schaakbord.jpg';
-import wandkast from './images/wandkast_5.jpg' ;
+import wandkast from './images2/hero-muurkast-IMG_3397_edit.jpg' ;
+import bar from './images2/hero-bar.jpg';
+import rond from './images2/hero-ronde-tafel.jpg';
+import kattenmeubel from './images2/hero-crazy-cat-contraption-IMG_20201202_121855_edit.jpg';
+import schaakbord from './images2/hero-chess-DSCF4468_edit.jpg';
 
 const app = () => {
   // const nextSlideHandler = React.useRef();
@@ -82,6 +83,13 @@ const app = () => {
       <Slide
         background={{
           backgroundImage: bar,
+          backgroundAttachment: "fixed"
+        }}
+      />
+
+      <Slide
+        background={{
+          backgroundImage: rond,
           backgroundAttachment: "fixed"
         }}
       />
