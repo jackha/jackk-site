@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.c4b119ed.css",
-    "main.js": "/static/js/main.f9cf6b2d.js",
+    "main.css": "/static/css/main.6ff0dbe0.css",
+    "main.js": "/static/js/main.7018818a.js",
     "static/js/787.c3745516.chunk.js": "/static/js/787.c3745516.chunk.js",
     "static/media/hero-muurkast-IMG_3397_edit.jpg": "/static/media/hero-muurkast-IMG_3397_edit.e68162f9aa11ba8b71c0.jpg",
     "static/media/hero-bar.jpg": "/static/media/hero-bar.a8cdf23b2c6cc45680de.jpg",
@@ -10,12 +10,12 @@
     "static/media/hero-chess-DSCF4468_edit.jpg": "/static/media/hero-chess-DSCF4468_edit.2cedf20ff9fad55ca21c.jpg",
     "static/media/jackk-logo-klein.png": "/static/media/jackk-logo-klein.2d40c982fdec9390a9b6.png",
     "index.html": "/index.html",
-    "main.c4b119ed.css.map": "/static/css/main.c4b119ed.css.map",
-    "main.f9cf6b2d.js.map": "/static/js/main.f9cf6b2d.js.map",
+    "main.6ff0dbe0.css.map": "/static/css/main.6ff0dbe0.css.map",
+    "main.7018818a.js.map": "/static/js/main.7018818a.js.map",
     "787.c3745516.chunk.js.map": "/static/js/787.c3745516.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c4b119ed.css",
-    "static/js/main.f9cf6b2d.js"
+    "static/css/main.6ff0dbe0.css",
+    "static/js/main.7018818a.js"
   ]
 }
