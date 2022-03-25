@@ -1,5 +1,6 @@
 import './App.css';
 import AboutMe from "./components/AboutMe/AboutMe";
+import Contact from "./components/Contact/Contact";
 import CustomFurniture from "./components/CustomFurniture/CustomFurniture";
 import Navbar from "./components/Navbar/Navbar";
 import Slider from "./components/Slider/Slider";
@@ -27,6 +28,7 @@ function App() {
       <Slider />
       <CustomFurniture />
       <AboutMe />
+      <Contact />
     </div>
   );
 }
