@@ -2,6 +2,7 @@
   width: 30px;
   height: 100%;
   padding: 4px;
+  margin-left: -10px;
 }
 
 .row {
@@ -9,10 +10,4 @@
   justify-content: flex-start;
   align-items: center;
   margin-bottom: 10px;
-}
-
-@media only screen and (min-width: 800px) {
-  .image {
-    margin-left: -10px;
-  }
 }

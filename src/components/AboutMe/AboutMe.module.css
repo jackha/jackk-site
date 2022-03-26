@@ -1,9 +1,30 @@
 .image {
     width: 100%;
+    padding-top: 5px;
   }
 
+.aboutMe {
+  background-color: rgb(45, 45, 45);
+  color: white;
+  padding: 0px 5px;
+  border-radius: 8px;
+  margin: 0px 15px;
+}
+
+.row {
+  margin: 0px 15px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
 @media only screen and (min-width: 800px) {
-  .row {
+  .aboutMe {
+    margin-left: auto;
+    margin-right: auto;
+    width: 810px;
+  }
+
+  .flex {
     display: flex;
     justify-content: space-between;
     flex-direction: row-reverse;
@@ -16,5 +37,6 @@
   .image {
     width: 180px;
     height: 100%;
+    padding-top: 0px;
   }
 }
