@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.6e55107f.css",
-    "main.js": "/static/js/main.31c1e731.js",
+    "main.js": "/static/js/main.a34f8c95.js",
     "static/js/787.c3745516.chunk.js": "/static/js/787.c3745516.chunk.js",
     "static/media/hero-schaafsel.jpg": "/static/media/hero-schaafsel.a3b731c71383db3f71c7.jpg",
     "static/media/hero-speakers.jpg": "/static/media/hero-speakers.faba7175daf861416b8d.jpg",
@@ -12,14 +12,14 @@
     "static/media/jack.jpg": "/static/media/jack.b79f7410000a90e5b38f.jpg",
     "static/media/hero-bar.jpg": "/static/media/hero-bar.544ffe60983f2ef4ddf1.jpg",
     "static/media/hero-crazy-cat-contraption.jpg": "/static/media/hero-crazy-cat-contraption.e4605964350304524e50.jpg",
-    "static/media/jackk-meubels-logo.png": "/static/media/jackk-meubels-logo.0d2d9c7c0f48d959c561.png",
+    "static/media/jackk-meubels-logo.png": "/static/media/jackk-meubels-logo.944fbcddcb55da1a4f18.png",
     "index.html": "/index.html",
     "main.6e55107f.css.map": "/static/css/main.6e55107f.css.map",
-    "main.31c1e731.js.map": "/static/js/main.31c1e731.js.map",
+    "main.a34f8c95.js.map": "/static/js/main.a34f8c95.js.map",
     "787.c3745516.chunk.js.map": "/static/js/787.c3745516.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6e55107f.css",
-    "static/js/main.31c1e731.js"
+    "static/js/main.a34f8c95.js"
   ]
 }
