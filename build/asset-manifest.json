@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.b52cf254.css",
-    "main.js": "/static/js/main.8d2181a0.js",
+    "main.css": "/static/css/main.6e55107f.css",
+    "main.js": "/static/js/main.b2058a72.js",
     "static/js/787.c3745516.chunk.js": "/static/js/787.c3745516.chunk.js",
-    "static/media/hero-muurkast-IMG_3397_edit.jpg": "/static/media/hero-muurkast-IMG_3397_edit.e68162f9aa11ba8b71c0.jpg",
+    "static/media/hero-ellipse.jpg": "/static/media/hero-ellipse.064d7acbfbe41abb2766.jpg",
+    "static/media/hero-kamerscherm.jpg": "/static/media/hero-kamerscherm.e1d8222b46d62d13bbb7.jpg",
+    "static/media/hero-muurkast.jpg": "/static/media/hero-muurkast.b7116ccb2293f1b8d6f7.jpg",
     "static/media/jack.jpg": "/static/media/jack.b79f7410000a90e5b38f.jpg",
-    "static/media/hero-bar.jpg": "/static/media/hero-bar.a8cdf23b2c6cc45680de.jpg",
-    "static/media/hero-crazy-cat-contraption-IMG_20201202_121855_edit.jpg": "/static/media/hero-crazy-cat-contraption-IMG_20201202_121855_edit.048f4a497c4f9889416f.jpg",
-    "static/media/hero-ronde-tafel.jpg": "/static/media/hero-ronde-tafel.075d5e29bc2ec117000a.jpg",
-    "static/media/hero-chess-DSCF4468_edit.jpg": "/static/media/hero-chess-DSCF4468_edit.2cedf20ff9fad55ca21c.jpg",
-    "static/media/jackk-logo-klein.png": "/static/media/jackk-logo-klein.2d40c982fdec9390a9b6.png",
+    "static/media/hero-bar.jpg": "/static/media/hero-bar.544ffe60983f2ef4ddf1.jpg",
+    "static/media/hero-crazy-cat-contraption.jpg": "/static/media/hero-crazy-cat-contraption.e4605964350304524e50.jpg",
+    "static/media/hero-ronde-tafel.jpg": "/static/media/hero-ronde-tafel.247797229cfccb4a2a26.jpg",
+    "static/media/jackk-meubels-logo.png": "/static/media/jackk-meubels-logo.0d2d9c7c0f48d959c561.png",
     "index.html": "/index.html",
-    "main.b52cf254.css.map": "/static/css/main.b52cf254.css.map",
-    "main.8d2181a0.js.map": "/static/js/main.8d2181a0.js.map",
+    "main.6e55107f.css.map": "/static/css/main.6e55107f.css.map",
+    "main.b2058a72.js.map": "/static/js/main.b2058a72.js.map",
     "787.c3745516.chunk.js.map": "/static/js/787.c3745516.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b52cf254.css",
-    "static/js/main.8d2181a0.js"
+    "static/css/main.6e55107f.css",
+    "static/js/main.b2058a72.js"
   ]
 }
