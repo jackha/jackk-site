@@ -37,6 +37,7 @@ a:hover, a:active, a:focus {
 
 .rm-hero-slider > div {
   top: 0;
+  height: 50vh !important;
 }
 
 .site-contents {
@@ -44,7 +45,17 @@ a:hover, a:active, a:focus {
   margin-right: 10px;
 }
 
+@media screen and (orientation:landscape) {
+  .rm-hero-slider > div {
+    height: 100vh !important;
+  }
+}
+
 @media only screen and (min-width: 800px) {
+  .rm-hero-slider > div {
+    height: 100vh !important;
+  }
+  
   .site-contents {
     width: 780px;
     margin-left: auto;
