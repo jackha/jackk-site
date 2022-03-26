@@ -14,6 +14,9 @@ import image2 from './images/hero-muurkast.jpg';
 import image3 from './images/hero-bar.jpg';
 import image4 from './images/hero-ellipse.jpg';
 import image5 from './images/hero-crazy-cat-contraption.jpg';
+import image6 from './images/hero-houten-zijkanten';
+import image7 from './images/hero-speakers';
+import image8 from './images/hero-schaafsel';
 
 const app = () => {
   // const nextSlideHandler = React.useRef();
@@ -104,6 +107,27 @@ const app = () => {
       <Slide
         background={{
           backgroundImage: image5,
+          backgroundAttachment: "fixed"
+        }}
+      />
+
+      <Slide
+        background={{
+          backgroundImage: image6,
+          backgroundAttachment: "fixed"
+        }}
+      />
+
+      <Slide
+        background={{
+          backgroundImage: image7,
+          backgroundAttachment: "fixed"
+        }}
+      />
+
+      <Slide
+        background={{
+          backgroundImage: image8,
           backgroundAttachment: "fixed"
         }}
       />
