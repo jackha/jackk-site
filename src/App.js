@@ -5,7 +5,7 @@ import CustomFurniture from "./components/CustomFurniture/CustomFurniture";
 import Navbar from "./components/Navbar/Navbar";
 import Slider from "./components/Slider/Slider";
 
-import SmallLogo from "./assets/jackk-logo-klein.png";
+import SmallLogo from "./assets/jackk-meubels-logo.png";
 
 
 function App() {
