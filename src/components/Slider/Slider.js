@@ -9,13 +9,12 @@ import Wrapper from "../Wrapper/Wrapper";
 // import Logo from "./../../assets/jackk-logo.png";
 
 // Images
-
 import image1 from './images/hero-kamerscherm.jpg';
-import image2 from './images/hero-muurkast.jpg';
-import image3 from './images/hero-ronde-tafel.jpg';
-import image4 from './images/hero-crazy-cat-contraption.jpg';
-import image5 from './images/hero-bar.jpg';
-import image6 from './images/hero-ellipse.jpg';
+import image2 from './images/hero-bar.jpg';
+import image3 from './images/hero-muurkast.jpg';
+import image4 from './images/hero-ellipse.jpg';
+import image5 from './images/hero-ronde-tafel.jpg';
+import image6 from './images/hero-crazy-cat-contraption.jpg';
 
 const app = () => {
   // const nextSlideHandler = React.useRef();
