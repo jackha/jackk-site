@@ -13,7 +13,7 @@ function App() {
     <div className="App">
       <Navbar >
         <a href='#' className='nav-brand'>
-          <img className='logo' src={SmallLogo} alt='Jackk meubels'/>
+          <img className='logo' src={SmallLogo} alt='Jackk Meubels'/>
         </a>
         {/* more menu stuff, not needed for now */}
         {/* <ul className='flex-container'>
