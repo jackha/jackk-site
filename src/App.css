@@ -33,6 +33,7 @@ a:hover, a:active, a:focus {
 
 .slide-background-loaded.slide-background-fade-in {
   background-position: center !important;
+  background-attachment: inherit !important;
 }
 
 .rm-hero-slider > div {
