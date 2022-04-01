@@ -1,8 +1,19 @@
 .image {
-  width: 30px;
+  width: 32px;
   height: 100%;
   padding: 4px;
-  margin-left: -10px;
+  margin-left: -8px;
+}
+
+.iconize {
+  width: 24px;
+  height: 20px;
+  margin: 4px 8px 4px 0px;
+  padding: 2px 0px;
+  color: white;
+  background-color: #2d2d2d;
+  border-radius: 5px;
+  text-align: center;
 }
 
 .row {
