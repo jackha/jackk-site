@@ -5,7 +5,7 @@ import classes from './AboutMe.module.css'
 
 const aboutMe = () => {
   return (
-    <div className={classes.aboutMe}>
+    <div className={`${classes.aboutMe} site-section`}>
         <h3 id='over-mij' className={classes.row}>Over mij</h3>
         <div className={`${classes.row} ${classes.flex}`}>
           <img className={classes.image} src={jack}></img>

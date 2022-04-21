@@ -6,9 +6,9 @@
 .aboutMe {
   background-color: rgb(45, 45, 45);
   color: white;
-  padding: 0px 5px;
+  padding: 20px 5px;
   border-radius: 8px;
-  margin: 0px 15px;
+  margin: 20px 15px;
 }
 
 .row {

@@ -3,7 +3,9 @@ import AboutMe from "./components/AboutMe/AboutMe";
 import Contact from "./components/Contact/Contact";
 import CustomFurniture from "./components/CustomFurniture/CustomFurniture";
 import Navbar from "./components/Navbar/Navbar";
+import Process from "./components/Process/Process";
 import Slider from "./components/Slider/Slider";
+import Testimonials from "./components/Testimonials/Testimonials";
 
 import SmallLogo from "./assets/jackk-meubels-logo.png";
 
@@ -27,6 +29,8 @@ function App() {
       </Navbar>
       <Slider />
       <CustomFurniture />
+      <Process />
+      <Testimonials />
       <AboutMe />
       <Contact />
     </div>
