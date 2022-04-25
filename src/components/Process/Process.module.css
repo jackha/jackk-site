@@ -1,0 +1,14 @@
+.process {
+  background-color: #dcdcdc;
+  border-radius: 8px; 
+  margin: 20px 15px;
+  padding: 20px 5px;
+}
+
+@media only screen and (min-width: 800px) {
+  .process {
+    margin-left: auto;
+    margin-right: auto;
+    width: 810px;
+  }
+}

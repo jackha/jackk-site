@@ -5,7 +5,7 @@ import classes from './Process.module.css'
 const process = () => {
   return (
     <React.Fragment>
-      <div className='site-section'>
+      <div className={`site-section ${classes.process}`}>
         <h3 className='site-contents title'>Hoe gaat het in zijn werk, een meubel op maat laten maken bij Jackk Meubels?</h3>
         <h4 className='site-contents'>Stap 1: Oriënterend gesprek</h4>
         <div className='site-contents'>
