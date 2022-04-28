@@ -5,7 +5,7 @@ import classes from './Process.module.css'
 const process = () => {
   return (
     <React.Fragment>
-      <div className={`site-section ${classes.process}`}>
+      <div className={`${classes.process} site-section`}>
         <h3 className='site-contents title'>Hoe gaat het in zijn werk, een meubel op maat laten maken bij Jackk Meubels?</h3>
         <h4 className='site-contents'>Stap 1: Oriënterend gesprek</h4>
         <div className='site-contents'>
@@ -13,11 +13,22 @@ Het eerste contact kan bijvoorbeeld telefonisch, per e-mail of via een paar beri
         </div>
         <h4 className='site-contents'>Stap 2: Ontwerpen bespreken</h4>
         <div className='site-contents'>
-De uitgewerkte ideeën met eventuele varianten of opties worden besproken. Variant A heeft wel iets leuks, maar variant B eigenlijk ook wel. We discusseren erover door en variant A is toch de leukere. Ook is de kleur- en materiaalkeus nu helder. Er wordt een keus voor een variant gemaakt en de kosten zijn bekend. Indien gewenst wordt de opdrachtbevestiging geformuleerd en wordt er een grove planning gemaakt. Zodra de opdracht doorgaat gaat de intentieverklaring af van de totaalprijs, waardoor je alleen betaalt voor het meubel en niet voor de ontwerpkosten. Het is ook mogelijk om in dit stadium de boel af te blazen als blijkt dat we totaal langs elkaar heen zijn gegaan (maar dit is nog nooit gebeurd).
+De uitgewerkte ideeën met eventuele varianten of opties worden besproken. Ook is de kleur- en materiaalkeus nu helder. Er wordt een keus voor een variant gemaakt en de kosten zijn bekend. Alle ingredienten voor de opdracht zijn nu duidelijk. Het is ook mogelijk om in dit stadium de boel af te blazen als blijkt dat we totaal langs elkaar heen zijn gegaan (maar dit is nog nooit gebeurd).
         </div>
-        <h4 className='site-contents'>Stap 3: Een nieuw Jackk Meubel</h4>
+        <h4 className='site-contents'>Stap 3: Opdracht</h4>
         <div className='site-contents'>
-Als het startschot voor de bouw van het nieuwe meubel in zicht is controleer ik of alle kleur- en materiaalkeuzes gemaakt zijn en kan het werkelijke vervaardigen beginnen. Ik hou je tussentijds op de hoogte en we plannen een installatie datum. Een nieuw Jackk Meubel is geboren!
+De opdracht wordt geformuleerd en er wordt een grove planning gemaakt. Er komt een nieuw Jackk Meubel!
+        </div>
+        <div className='site-contents'>
+De intentieverklaring af van de totaalprijs, waardoor je alleen betaalt voor het meubel en niet voor de ontwerpkosten.
+        </div>
+        <h4 className='site-contents'>Stap 4: Uitvoering</h4>
+        <div className='site-contents'>
+Als het startschot voor de bouw van het nieuwe meubel in zicht is controleer ik of alle kleur- en materiaalkeuzes gemaakt zijn. Materialen worden besteld en het werkelijke vervaardigen kan beginnen. Ik hou je tussentijds op de hoogte en we plannen een opleverdatum. 
+        </div>
+        <h4 className='site-contents'>Stap 5: Oplevering</h4>
+        <div className='site-contents'>
+Het nieuwe meubel wordt naar de locatie gebracht waarvoor hij gemaakt is en hij wordt ter plekke gemonteerd en afgesteld.
         </div>
       </div>
     </React.Fragment>
