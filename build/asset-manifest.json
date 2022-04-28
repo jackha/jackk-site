@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.a2a0522e.css",
-    "main.js": "/static/js/main.23cd25d5.js",
+    "main.css": "/static/css/main.e34ec971.css",
+    "main.js": "/static/js/main.41fd5e80.js",
     "static/js/787.c3745516.chunk.js": "/static/js/787.c3745516.chunk.js",
     "static/media/hero-schaafsel.jpg": "/static/media/hero-schaafsel.a3b731c71383db3f71c7.jpg",
     "static/media/hero-speakers.jpg": "/static/media/hero-speakers.faba7175daf861416b8d.jpg",
     "static/media/hero-houten-zijkanten.jpg": "/static/media/hero-houten-zijkanten.a47dd683a38f248536ad.jpg",
     "static/media/hero-kamerscherm.jpg": "/static/media/hero-kamerscherm.b5b6d55b62e222685654.jpg",
-    "static/media/hero-schaakbord.jpg": "/static/media/hero-schaakbord.61db788ed20b5f99b660.jpg",
+    "static/media/hero-toy-storage.jpg": "/static/media/hero-toy-storage.ad2d3903c670cfcc30b0.jpg",
     "static/media/hero-muurkast.jpg": "/static/media/hero-muurkast.b7116ccb2293f1b8d6f7.jpg",
     "static/media/jack.jpg": "/static/media/jack.b79f7410000a90e5b38f.jpg",
     "static/media/hero-bar.jpg": "/static/media/hero-bar.544ffe60983f2ef4ddf1.jpg",
     "static/media/hero-crazy-cat-contraption.jpg": "/static/media/hero-crazy-cat-contraption.e4605964350304524e50.jpg",
     "static/media/jackk-meubels-logo.png": "/static/media/jackk-meubels-logo.944fbcddcb55da1a4f18.png",
     "index.html": "/index.html",
-    "main.a2a0522e.css.map": "/static/css/main.a2a0522e.css.map",
-    "main.23cd25d5.js.map": "/static/js/main.23cd25d5.js.map",
+    "main.e34ec971.css.map": "/static/css/main.e34ec971.css.map",
+    "main.41fd5e80.js.map": "/static/js/main.41fd5e80.js.map",
     "787.c3745516.chunk.js.map": "/static/js/787.c3745516.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a2a0522e.css",
-    "static/js/main.23cd25d5.js"
+    "static/css/main.e34ec971.css",
+    "static/js/main.41fd5e80.js"
   ]
 }
