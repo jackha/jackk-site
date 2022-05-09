@@ -20,7 +20,7 @@ De uitgewerkte ideeën met eventuele varianten of opties worden besproken. Ook i
 De opdracht wordt geformuleerd en er wordt een planning gemaakt. Er komt een nieuw Jackk Meubel!
         </div>
         <div className='site-contents'>
-De intentieverklaring af van de totaalprijs, waardoor je alleen betaalt voor het meubel en niet voor de ontwerpkosten.
+De intentieverklaring gaat af van de totaalprijs, waardoor je alleen betaalt voor het meubel en niet voor de ontwerpkosten.
         </div>
         <h4 className='site-contents'>Stap 4: Uitvoering</h4>
         <div className='site-contents'>
