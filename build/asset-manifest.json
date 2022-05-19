@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.e34ec971.css",
-    "main.js": "/static/js/main.41fd5e80.js",
+    "main.css": "/static/css/main.abd7c01e.css",
+    "main.js": "/static/js/main.45b1297b.js",
     "static/js/787.c3745516.chunk.js": "/static/js/787.c3745516.chunk.js",
     "static/media/hero-schaafsel.jpg": "/static/media/hero-schaafsel.a3b731c71383db3f71c7.jpg",
     "static/media/hero-speakers.jpg": "/static/media/hero-speakers.faba7175daf861416b8d.jpg",
@@ -14,12 +14,12 @@
     "static/media/hero-crazy-cat-contraption.jpg": "/static/media/hero-crazy-cat-contraption.e4605964350304524e50.jpg",
     "static/media/jackk-meubels-logo.png": "/static/media/jackk-meubels-logo.944fbcddcb55da1a4f18.png",
     "index.html": "/index.html",
-    "main.e34ec971.css.map": "/static/css/main.e34ec971.css.map",
-    "main.41fd5e80.js.map": "/static/js/main.41fd5e80.js.map",
+    "main.abd7c01e.css.map": "/static/css/main.abd7c01e.css.map",
+    "main.45b1297b.js.map": "/static/js/main.45b1297b.js.map",
     "787.c3745516.chunk.js.map": "/static/js/787.c3745516.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e34ec971.css",
-    "static/js/main.41fd5e80.js"
+    "static/css/main.abd7c01e.css",
+    "static/js/main.45b1297b.js"
   ]
 }
