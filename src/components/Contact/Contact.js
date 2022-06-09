@@ -14,7 +14,7 @@ const contact = () => {
         </div>       
         <div className={`${classes.row} site-contents` }>
           <div className={classes.iconize}>@</div>
-          <a href='mailto:jackk@amplivibe.com'>jackk@amplivibe.com</a>
+          <a href='mailto:info@jackk.xyz'>info@jackk.xyz</a>
         </div>       
         <div className={`${classes.row} site-contents` }>
           <div className={classes.iconize}>t</div>
