@@ -9,11 +9,11 @@ import Wrapper from "../Wrapper/Wrapper";
 // import Logo from "./../../assets/jackk-logo.png";
 
 // Images
-import image1 from './images/hero-kamerscherm.jpg';
-import image2 from './images/hero-muurkast.jpg';
-import image3 from './images/hero-bar.jpg';
-import image4 from './images/hero-toy-storage.jpg';
-import image5 from './images/hero-crazy-cat-contraption.jpg';
+import image1 from './images/hero-bench.jpg';
+import image2 from './images/hero-kamerscherm.jpg';
+import image3 from './images/hero-muurkast.jpg';
+import image4 from './images/hero-bar.jpg';
+import image5 from './images/hero-toy-storage.jpg';
 import image6 from './images/hero-houten-zijkanten.jpg';
 import image7 from './images/hero-speakers.jpg';
 import image8 from './images/hero-schaafsel.jpg';
