@@ -14,9 +14,12 @@ import image2 from './images/hero-kamerscherm.jpg';
 import image3 from './images/hero-muurkast.jpg';
 import image4 from './images/hero-bar.jpg';
 import image5 from './images/hero-toy-storage.jpg';
-import image6 from './images/hero-houten-zijkanten.jpg';
-import image7 from './images/hero-speakers.jpg';
-import image8 from './images/hero-schaafsel.jpg';
+
+const image1alt = "Design Art Deco Walnoten Bankje | Jackk Meubels";
+const image2alt = "Design Akoestisch Kamerscherm | Jackk Meubels";
+const image3alt = "Design Wandkast | Jackk Meubels";
+const image4alt = "Design Bar | Jackk Meubels";
+const image5alt = "Design Speelgoedkist | Jackk Meubels";
 
 const app = () => {
   // const nextSlideHandler = React.useRef();
@@ -79,56 +82,40 @@ const app = () => {
       <Slide
         background={{
           backgroundImage: image1,
-          backgroundAttachment: "fixed"
+          backgroundAttachment: "fixed",
+          alt: image1alt
         }}
       />
 
       <Slide
         background={{
           backgroundImage: image2,
-          backgroundAttachment: "fixed"
+          backgroundAttachment: "fixed",
+          alt: image2alt
         }}
       />
 
       <Slide
         background={{
           backgroundImage: image3,
-          backgroundAttachment: "fixed"
+          backgroundAttachment: "fixed",
+          alt: image3alt
         }}
       />
 
       <Slide
         background={{
           backgroundImage: image4,
-          backgroundAttachment: "fixed"
+          backgroundAttachment: "fixed",
+          alt: image4alt
         }}
       />
 
       <Slide
         background={{
           backgroundImage: image5,
-          backgroundAttachment: "fixed"
-        }}
-      />
-
-      <Slide
-        background={{
-          backgroundImage: image6,
-          backgroundAttachment: "fixed"
-        }}
-      />
-
-      <Slide
-        background={{
-          backgroundImage: image7,
-          backgroundAttachment: "fixed"
-        }}
-      />
-
-      <Slide
-        background={{
-          backgroundImage: image8,
-          backgroundAttachment: "fixed"
+          backgroundAttachment: "fixed",
+          alt: image5alt
         }}
       />
 

@@ -9,7 +9,7 @@ const contact = () => {
       <div class='site-section'>
         <h3 id='contact' className='site-contents'>Contact</h3>
         <div className={`${classes.row} site-contents` }>
-          <img className={classes.image} src={linkedin}></img>
+          <img className={classes.image} src={linkedin} alt='LinkedIn'></img>
           <a href='https://www.linkedin.com/in/jack-ha-0a96314/'>Jack Ha</a>
         </div>       
         <div className={`${classes.row} site-contents` }>
