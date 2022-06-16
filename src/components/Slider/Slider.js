@@ -79,7 +79,7 @@ const app = () => {
       <Slide
         background={{
           backgroundImage: image1,
-          backgroundAttachment: "fixed"
+          backgroundAttachment: "fixed",
         }}
       />
 
