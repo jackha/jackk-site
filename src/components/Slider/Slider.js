@@ -21,6 +21,12 @@ const image3alt = "Design Wandkast | Jackk Meubels";
 const image4alt = "Design Bar | Jackk Meubels";
 const image5alt = "Design Speelgoedkist | Jackk Meubels";
 
+function openContact()
+{
+  //             <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeG-PjEcmeTcSoKv5fKlr_GgnKeUHTcYFiGtivc4Un-LUIA_g/viewform?embedded=true" width="640" height="959" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+  document.getElementById("testframe").innerHTML = '<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeG-PjEcmeTcSoKv5fKlr_GgnKeUHTcYFiGtivc4Un-LUIA_g/viewform?embedded=true" width="640" height="959" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>';
+}
+
 const app = () => {
   // const nextSlideHandler = React.useRef();
   // const previousSlideHandler = React.useRef();
@@ -52,6 +58,19 @@ const app = () => {
     >
       <OverlayContainer>
         <Wrapper>
+          <div>
+          <button
+              style={{
+                width: 100,
+                margin: "12px 8px"
+              }}
+              button="success"
+              onClick={() => openContact()}
+            >
+              Contact
+              </button>            
+          </div>
+          <div id="testframe"></div>
           {/* <Title><img className={classes.Logo} src={Logo} /></Title>
           <Subtitle>Meubels op maat</Subtitle> */}
           {/* <div>
