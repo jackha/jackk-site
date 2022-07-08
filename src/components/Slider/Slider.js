@@ -68,7 +68,10 @@ const app = () => {
               onClick={() => openContact()}
             >
               Contact
-              </button>            
+              </button>
+            <a href="https://docs.google.com/forms/d/e/1FAIpQLSeG-PjEcmeTcSoKv5fKlr_GgnKeUHTcYFiGtivc4Un-LUIA_g/viewform?usp=sf_link" target="_blank">
+              contact
+            </a>
           </div>
           <div id="testframe"></div>
           {/* <Title><img className={classes.Logo} src={Logo} /></Title>
