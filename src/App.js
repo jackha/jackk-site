@@ -10,6 +10,11 @@ import Testimonials from "./components/Testimonials/Testimonials";
 import SmallLogo from "./assets/jackk-meubels-logo.png";
 
 
+function openContact()
+{
+  window.open("https://docs.google.com/forms/d/e/1FAIpQLSeG-PjEcmeTcSoKv5fKlr_GgnKeUHTcYFiGtivc4Un-LUIA_g/viewform?usp=sf_link")
+}
+
 function App() {
   return (
     <div className="App">
@@ -17,15 +22,20 @@ function App() {
         <a href='#' className='nav-brand'>
           <img className='logo' src={SmallLogo} alt='Jackk Meubels'/>
         </a>
-        {/* more menu stuff, not needed for now */}
-        {/* <ul className='flex-container'>
-          <li className='flex-item'>
+        <ul className='flex-container top-menu'>
+          {/*<li className='flex-item'>
             <a href='#meubels-op-maat' className='nav-link'>Meubels op maat</a>  
           </li>
           <li className='flex-item'>
             <a href='#over-mij' className='nav-link'>Over mij</a>  
+          </li>*/}
+          <li>
+            <button className="call-to-action-button" button="success" onClick={() => openContact()}>
+              Contact
+            </button>
           </li>
-        </ul> */}
+        </ul>
+
       </Navbar>
       <Slider />
       <CustomFurniture />
