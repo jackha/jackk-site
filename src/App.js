@@ -35,8 +35,8 @@ function App() {
             </button>
           </li>
         </ul>
-
       </Navbar>
+      <div className='central-text'>Unieke meubels ontworpen en gemaakt naar jouw wensen</div>
       <Slider />
       <CustomFurniture />
       <Process />
