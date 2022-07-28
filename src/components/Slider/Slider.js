@@ -9,17 +9,18 @@ import Wrapper from "../Wrapper/Wrapper";
 // import Logo from "./../../assets/jackk-logo.png";
 
 // Images
-import image1 from './images/hero-bench.jpg';
-import image2 from './images/hero-kamerscherm.jpg';
-import image3 from './images/hero-muurkast.jpg';
-import image4 from './images/hero-bar.jpg';
-import image5 from './images/hero-toy-storage.jpg';
 
-const image1alt = "Design Art Deco Walnoten Bankje | Jackk Meubels";
+import image1 from './images/hero-art-deco-cabinet.jpg';
+import image2 from './images/hero-kamerscherm.jpg';
+import image3 from './images/hero-bench.jpg';
+import image4 from './images/hero-muurkast.jpg';
+import image5 from './images/hero-bar.jpg';
+
+const image1alt = "Design Art Deco Kast | Jackk Meubels";
 const image2alt = "Design Akoestisch Kamerscherm | Jackk Meubels";
-const image3alt = "Design Wandkast | Jackk Meubels";
-const image4alt = "Design Bar | Jackk Meubels";
-const image5alt = "Design Speelgoedkist | Jackk Meubels";
+const image3alt = "Design Art Deco Walnoten Bankje | Jackk Meubels";
+const image4alt = "Design Wandkast | Jackk Meubels";
+const image5alt = "Design Bar | Jackk Meubels";
 
 const app = () => {
   // const nextSlideHandler = React.useRef();
