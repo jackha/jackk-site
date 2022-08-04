@@ -77,6 +77,7 @@ a:hover, a:active, a:focus {
 .call-to-action-button:hover, 
 .call-to-action-button:active {
   background-color: #c9f7b9;
+  cursor: pointer;
 }
 
 @media screen and (orientation:landscape) {
