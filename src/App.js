@@ -1,4 +1,6 @@
 import './App.css';
+//import { openContact } from './utils.js';
+
 import AboutMe from "./components/AboutMe/AboutMe";
 import Contact from "./components/Contact/Contact";
 import CustomFurniture from "./components/CustomFurniture/CustomFurniture";
