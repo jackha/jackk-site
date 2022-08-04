@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.e8ef67d1.css",
-    "main.js": "/static/js/main.2025ff85.js",
+    "main.js": "/static/js/main.daa55612.js",
     "static/js/787.c3745516.chunk.js": "/static/js/787.c3745516.chunk.js",
     "static/media/hero-kamerscherm.jpg": "/static/media/hero-kamerscherm.b5b6d55b62e222685654.jpg",
     "static/media/hero-art-deco-cabinet.jpg": "/static/media/hero-art-deco-cabinet.46253be2560eb4eccf47.jpg",
@@ -12,11 +12,11 @@
     "static/media/jackk-meubels-logo.png": "/static/media/jackk-meubels-logo.944fbcddcb55da1a4f18.png",
     "index.html": "/index.html",
     "main.e8ef67d1.css.map": "/static/css/main.e8ef67d1.css.map",
-    "main.2025ff85.js.map": "/static/js/main.2025ff85.js.map",
+    "main.daa55612.js.map": "/static/js/main.daa55612.js.map",
     "787.c3745516.chunk.js.map": "/static/js/787.c3745516.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e8ef67d1.css",
-    "static/js/main.2025ff85.js"
+    "static/js/main.daa55612.js"
   ]
 }
