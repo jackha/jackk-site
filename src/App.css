@@ -79,11 +79,23 @@ a:hover, a:active, a:focus {
   background-color: #c9f7b9;
 }
 
-
 @media screen and (orientation:landscape) {
   .rm-hero-slider > div {
     height: 100vh !important;
   }
+}
+
+.central-text {
+  position: absolute;
+  bottom: 430px;
+  right: 50px;
+  width: 300px;
+  font-size: 20px;
+  text-align: right;
+  text-shadow: 
+    2px 0 rgba(200, 200, 200, 0.3), -2px 0 rgba(200, 200, 200, 0.3), 0 2px rgba(200, 200, 200, 0.3), 0 -2px rgba(200, 200, 200, 0.3),
+    1px 1px rgba(200, 200, 200, 0.3), -1px -1px rgba(200, 200, 200, 0.3), 1px -1px rgba(200, 200, 200, 0.3), -1px 1px rgba(200, 200, 200, 0.3);
+  z-index: 999;
 }
 
 @media only screen and (min-width: 800px) {
@@ -101,6 +113,17 @@ a:hover, a:active, a:focus {
     width: 200px;
     height: 200px;
   }  
+
+  .central-text {
+    right: 400px;
+    width: 600px;
+    bottom: 350px;
+    font-size: 50px;
+    text-shadow: 
+    4px 0 rgba(200, 200, 200, 0.2), -4px 0 rgba(200, 200, 200, 0.2), 0 4px rgba(200, 200, 200, 0.2), 0 -4px rgba(200, 200, 200, 0.2),
+    2px 2px rgba(200, 200, 200, 0.2), -2px -2px rgba(200, 200, 200, 0.2), 2px -2px rgba(200, 200, 200, 0.2), -2px 2px rgba(200, 200, 200, 0.2);
+  }
+  
 }
 
 html { 
