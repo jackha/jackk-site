@@ -1,12 +1,13 @@
 import { Outlet, Link } from "react-router-dom";
 import Navbar from "../components/Navbar/Navbar";
 import openContact from "../common"
+import React from 'react'
 import SmallLogo from "../assets/jackk-meubels-logo.png";
 
 
 const Layout = () => {
   return (
-    <>
+    <React.Fragment>
       <Navbar >
         <a href='/' className='nav-brand'>
           <img className='logo' src={SmallLogo} alt='Jackk Meubels'/>
@@ -27,7 +28,7 @@ const Layout = () => {
       </Navbar>
 
       <Outlet />
-    </>
+    </React.Fragment>
   )
 };
 
