@@ -1,4 +1,7 @@
 import React from 'react'
+import openContact from "../../common"
+import aankoopproces from './images/aankoopproces.svg';
+
 // CSS
 import classes from './Process.module.css'
 
@@ -6,15 +9,16 @@ const process = () => {
   return (
     <React.Fragment>
       <div className={`${classes.process} site-section`}>
-        <h3 className='site-contents title'>Hoe gaat het in zijn werk, een meubel op maat laten maken bij Jackk Meubels?</h3>
+        <h3 className='site-contents title'>Hoe gaat het in zijn werk, een meubel ontwerpen en laten maken bij Jackk Meubels?</h3>
         <div className='site-contents'>
 Bij Jackk Meubels weet je altijd precies waar je aan toe bent omdat we alle stappen vooraf duidelijk vastleggen zodat je nooit voor vervelende verrassingen komt te staan.
         </div>
+        <img src={aankoopproces}></img>
         <h4 className='site-contents'>Stap 1: Oriënterend gesprek</h4>
         <div className='site-contents'>
-Het eerste contact kan bijvoorbeeld telefonisch, per e-mail of via een paar berichten op LinkedIn. We prikken een datum en ik kom bij je langs. Onder het genot van een bakje koffie wordt er over de wensen en ideeën gepraat. Dit is helemaal vrijblijvend en gratis. Als er een klik is dan plannen we de volgende sessie om ontwerpen te bespreken. Voor het ontwerpen vraag ik wel een kleine bijdrage in de vorm van een intentieverklaring, ik investeer immers veel tijd bij het ontwerpen.
+Het eerste contact kan door <a href="" onClick={() => openContact()}>hier</a> een berichtje achter te laten. We prikken een datum en ik kom bij je langs. Onder het genot van een bakje koffie wordt er over de wensen en ideeën gepraat. Dit is helemaal vrijblijvend en gratis. Als er een klik is dan plannen we de volgende sessie om ontwerpen te bespreken. Voor het ontwerpen vraag ik wel een kleine bijdrage in de vorm van een intentieverklaring, ik investeer immers veel tijd bij het ontwerpen.
         </div>
-        <h4 className='site-contents'>Stap 2: Ontwerpen bespreken</h4>
+        <h4 className='site-contents'>Stap 2: Ontwerp</h4>
         <div className='site-contents'>
 De uitgewerkte ideeën met eventuele varianten of opties worden besproken. Ook is de kleur- en materiaalkeus nu helder. Er wordt een keus voor een variant gemaakt en de kosten zijn bekend. Alle ingredienten voor de opdracht zijn nu duidelijk. Het is ook mogelijk om in dit stadium de boel af te blazen als blijkt dat we totaal langs elkaar heen zijn gegaan (maar dit is nog nooit gebeurd).
         </div>
