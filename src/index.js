@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom';
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Layout from "./pages/layout";
 import TestPage from "./pages/testpage";
+import ProcessPage from "./pages/process";
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
@@ -15,6 +16,7 @@ ReactDOM.render(
         <Route path="/" element={<Layout />}>
           <Route index element={<App />} />
           <Route path="testpage" element={<TestPage />} />
+          <Route path="process" element={<ProcessPage />} />
           <Route path="*" element={<App />} />          
         </Route>
       </Routes>
