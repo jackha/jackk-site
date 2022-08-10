@@ -3,6 +3,10 @@ import ReactDOM from 'react-dom';
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Layout from "./pages/layout";
 import TestPage from "./pages/testpage";
+import WalnutCabinetPage from "./pages/walnutcabinet";
+import WalnutBenchPage from "./pages/walnutbench";
+import KumikoRoomDividerPage from "./pages/kumikoroomdivider";
+import ToyStorageBoxPage from "./pages/toystoragebox";
 import ProcessPage from "./pages/process";
 import './index.css';
 import App from './App';
@@ -17,6 +21,10 @@ ReactDOM.render(
           <Route index element={<App />} />
           <Route path="testpage" element={<TestPage />} />
           <Route path="process" element={<ProcessPage />} />
+          <Route path="portfolio/walnut-cabinet" element={<WalnutCabinetPage />} />
+          <Route path="portfolio/walnut-bench" element={<WalnutBenchPage />} />
+          <Route path="portfolio/kumiko-room-divider" element={<KumikoRoomDividerPage />} />
+          <Route path="portfolio/toy-storage-box" element={<ToyStorageBoxPage />} />
           <Route path="*" element={<App />} />          
         </Route>
       </Routes>
