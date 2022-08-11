@@ -9,7 +9,7 @@ import image3 from "../components/Gallery/images/art-deco-walnut-bench/walnut-be
 
 function WalnutBenchPage() {
   return (
-    <div className="App">
+    <div className="App avoid-logo">
       <div className='site-section'>
         <h1 className='site-contents'>Art Deco bankje</h1>
         <p className='site-contents'>Bankje van notenhout en inleg van essen</p>

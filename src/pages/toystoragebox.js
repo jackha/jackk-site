@@ -8,7 +8,7 @@ import image2 from "../components/Gallery/images/lego/lego-toy-box2.jpg";
 
 function ToyStorageBoxPage() {
   return (
-    <div className="App">
+    <div className="App avoid-logo">
       <div className='site-section'>
         <h1 className='site-contents'>Speelgoed opbergbox</h1>
         <p className='site-contents'>Nu kun je in stijl je constructiespeelgoed opbergen. Op de nopjes staat van wie de inhoud is. Tevens is de box stapelbaar waardoor je je kamer efficienter kunt gebruiken.</p>

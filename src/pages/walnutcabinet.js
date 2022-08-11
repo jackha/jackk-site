@@ -23,7 +23,7 @@ import image5c from "../components/Gallery/images/art-deco-walnut-cabinet/walnut
 
 function WalnutCabinetPage() {
   return (
-    <div className="App">
+    <div className="App avoid-logo">
       <div className='site-section'>
         <h1 className='site-contents'>Art Deco kast</h1>
         <p className='site-contents'>Je komt het huis binnen. Recht voor je is een deur die naar een kamer gaat. Links van de deur is een hoekje en rechts is een wand van 2 meter lang, waar ook een radiator hangt. "Dat is de plek waar ik mijn spullen op wil bergen."</p>
