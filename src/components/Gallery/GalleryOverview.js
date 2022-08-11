@@ -48,7 +48,7 @@ const photos = [
 const GalleryOverview = () => {
   return (
     <div className={classes.galleryoverview} id="portfolio">
-      <Gallery photos={photos} onClick={clickPhoto} />
+      <Gallery photos={photos} onClick={clickPhoto} className="gallery" />
     </div>
   )
 }
