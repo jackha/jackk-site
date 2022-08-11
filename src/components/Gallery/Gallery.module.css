@@ -1,0 +1,14 @@
+@media only screen and (min-width: 800px) {
+    .galleryoverview {
+        width: 800px;
+        margin: auto;
+    }
+}
+
+@media only screen and (min-width: 1920px) {
+    .galleryoverview {
+        width: 1000px;
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+}

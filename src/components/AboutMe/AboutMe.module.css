@@ -40,3 +40,17 @@
     padding-top: 0px;
   }
 }
+
+@media only screen and (min-width: 1920px) {
+  .aboutMe {
+    width: 1010px;
+  }
+
+  .column {
+    max-width: 680px;
+  }
+
+  .image {
+    width: 280px;
+  }
+}

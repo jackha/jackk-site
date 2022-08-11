@@ -4,15 +4,32 @@ object-assign
 @license MIT
 */
 
-/**
- * React Router DOM v6.3.0
+/*!
+ * is-extendable <https://github.com/jonschlinkert/is-extendable>
  *
- * Copyright (c) Remix Software Inc.
+ * Copyright (c) 2015-2017, Jon Schlinkert.
+ * Released under the MIT License.
+ */
+
+/*!
+ * is-plain-object <https://github.com/jonschlinkert/is-plain-object>
  *
- * This source code is licensed under the MIT license found in the
- * LICENSE.md file in the root directory of this source tree.
+ * Copyright (c) 2014-2017, Jon Schlinkert.
+ * Released under the MIT License.
+ */
+
+/*!
+ * isobject <https://github.com/jonschlinkert/isobject>
  *
- * @license MIT
+ * Copyright (c) 2014-2017, Jon Schlinkert.
+ * Released under the MIT License.
+ */
+
+/*!
+ * object.omit <https://github.com/jonschlinkert/object.omit>
+ *
+ * Copyright (c) 2014-2017, Jon Schlinkert.
+ * Released under the MIT License.
  */
 
 /**
