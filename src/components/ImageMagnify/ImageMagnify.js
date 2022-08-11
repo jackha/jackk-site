@@ -84,7 +84,7 @@ function ImageMagnify(props) {
   }
   return (
     <div className='site-section'>
-        <div className='site-contents'>
+        <div className={`${props.class} site-contents`}>
             <ReactImageMagnify {...{
                 smallImage: {
                     alt: props.image_alt,

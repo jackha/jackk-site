@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom';
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Layout from "./pages/layout";
 import TestPage from "./pages/testpage";
+import CustomFurniturePage from "./pages/customfurniture";
 import WalnutCabinetPage from "./pages/walnutcabinet";
 import WalnutBenchPage from "./pages/walnutbench";
 import KumikoRoomDividerPage from "./pages/kumikoroomdivider";
@@ -20,6 +21,7 @@ ReactDOM.render(
         <Route path="/" element={<Layout />}>
           <Route index element={<App />} />
           <Route path="testpage" element={<TestPage />} />
+          <Route path="custom-furniture" element={<CustomFurniturePage />} />
           <Route path="process" element={<ProcessPage />} />
           <Route path="portfolio/walnut-cabinet" element={<WalnutCabinetPage />} />
           <Route path="portfolio/walnut-bench" element={<WalnutBenchPage />} />

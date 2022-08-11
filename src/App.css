@@ -92,6 +92,7 @@ button:active {
 .navigate-inline {
   height: 30px;
   border-width: 1px;
+  border-color: #ddd;
 }
 
 @media screen and (orientation:landscape) {
@@ -179,6 +180,10 @@ button:active {
 @media only screen and (min-width: 1920px) {
   .site-contents {
     width: 980px;
+  }
+
+  .half-width {
+    width: 480px; 
   }
 
   .central-text {
