@@ -5,7 +5,7 @@ import Process from "../components/Process/Process";
 
 function ProcessPage() {
   return (
-    <div className="App">
+    <div className="App avoid-logo">
       <Process />
       <div className='site-section'>
         <div className='site-contents'>
