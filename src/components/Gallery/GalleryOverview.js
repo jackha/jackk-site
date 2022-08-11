@@ -26,7 +26,7 @@ const photos = [
     width: 1492,
     height: 1920,
     alt: "Kumiko room divider inspired by japanese kumiko patterns which also acoustically absorbs sound",
-    data: {goto: "portfolio/room-divider"}
+    data: {goto: "portfolio/kumiko-room-divider"}
   },
   {
     src: image3,
