@@ -10,7 +10,7 @@ function KumikoRoomDividerPage() {
   return (
     <div className="App">
       <div className='site-section'>
-        <h1 id='jackk-meubels' className='site-contents'>Kumiko akoestisch kamerscherm</h1>
+        <h1 className='site-contents'>Kumiko akoestisch kamerscherm</h1>
         <p className='site-contents'>Dit luxe afgewerkt kamerscherm is een plezier voor het oog. Ook levert hij meer werkplezier op. Eventuele afleidingen worden niet alleen door het zicht beperkt, maar hij absorbeert ook geluid waardoor de akoestiek verbetert. Storende omgevingsgeluiden worden verminderd en je bent beter verstaanbaar als je aan het videobellen bent.</p>
         <p className='site-contents'>Materialen & afwerking: Notenhout (frame), berken multiplex (voor-achterkant), messing kamerschermscharnieren, akoestisch absorberend materiaal in het midden, afgewerkt in olie.</p>
       </div>

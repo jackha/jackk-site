@@ -11,7 +11,7 @@ function WalnutBenchPage() {
   return (
     <div className="App">
       <div className='site-section'>
-        <h1 id='jackk-meubels' className='site-contents'>Art Deco bankje</h1>
+        <h1 className='site-contents'>Art Deco bankje</h1>
         <p className='site-contents'>Bankje van notenhout en inleg van essen</p>
         <p className='site-contents'>Materialen & afwerking: Notenhout (corpus), essen (inleg), afgewerkt in hardwax.</p>
       </div>
