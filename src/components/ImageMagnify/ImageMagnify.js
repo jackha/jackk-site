@@ -76,8 +76,8 @@ function ImageMagnify(props) {
   var size_x = 1200 * ratio
   var size_y = 1200
 
-  if (props.text) {
-    text_html = (<div className='site-contents'>{props.text}</div>);
+  if ((props.text) || (props.children)) {
+    text_html = (<div className='site-contents'>{props.text}{props.children}</div>);
   }
   if (props.ratio) {
     size_x = 1200 * props.ratio
