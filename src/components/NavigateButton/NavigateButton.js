@@ -11,19 +11,19 @@ function openLink(link, linkname)
     window.open(url, name)
 }
 
-//const ContactButton = (props) => {
+
 function NavigateButton(props) {
     var contents = "Contact";
-    var classes = "";
+    var classname = "";
     if (props.text) {
         contents = props.text;
     }
     if (props.class) {
-        classes = props.class;
+        classname = props.class;
     }
 
     return (
-        <button button="success" className={classes} onClick={() => openLink(props.link, props.linkname)}>
+        <button button="success" className={classname} onClick={() => openLink(props.link, props.linkname)}>
             {contents}
         </button>
     )
