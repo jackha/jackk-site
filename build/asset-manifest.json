@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.0c6a76c0.css",
-    "main.js": "/static/js/main.08b4dcbe.js",
+    "main.css": "/static/css/main.8f3a1472.css",
+    "main.js": "/static/js/main.a4a52d17.js",
     "static/js/787.c3745516.chunk.js": "/static/js/787.c3745516.chunk.js",
     "static/media/ash-inlay-shaper.jpg": "/static/media/ash-inlay-shaper.93b33f7d4d79123e6c11.jpg",
     "static/media/lego-toy-box2.jpg": "/static/media/lego-toy-box2.a09fc4ce607bda17bcfa.jpg",
@@ -18,6 +18,7 @@
     "static/media/walnut-cabinet1.jpg": "/static/media/walnut-cabinet1.b939a36b4a4bdf45d63d.jpg",
     "static/media/hero-art-deco-cabinet.jpg": "/static/media/hero-art-deco-cabinet.46253be2560eb4eccf47.jpg",
     "static/media/hero-bench.jpg": "/static/media/hero-bench.70debb53e7205967540e.jpg",
+    "static/media/wasmachine-mv.png": "/static/media/wasmachine-mv.8de0ee29eca7991b7807.png",
     "static/media/walnut-cabinet3.jpg": "/static/media/walnut-cabinet3.4e7ff120ae1425680497.jpg",
     "static/media/lego-toy-box1.jpg": "/static/media/lego-toy-box1.ad2d3903c670cfcc30b0.jpg",
     "static/media/hero-muurkast.jpg": "/static/media/hero-muurkast.b7116ccb2293f1b8d6f7.jpg",
@@ -32,12 +33,12 @@
     "static/media/walnut-cabinet1-small.jpg": "/static/media/walnut-cabinet1-small.c41f1137c302c60020f6.jpg",
     "static/media/jackk-meubels-logo.png": "/static/media/jackk-meubels-logo.944fbcddcb55da1a4f18.png",
     "index.html": "/index.html",
-    "main.0c6a76c0.css.map": "/static/css/main.0c6a76c0.css.map",
-    "main.08b4dcbe.js.map": "/static/js/main.08b4dcbe.js.map",
+    "main.8f3a1472.css.map": "/static/css/main.8f3a1472.css.map",
+    "main.a4a52d17.js.map": "/static/js/main.a4a52d17.js.map",
     "787.c3745516.chunk.js.map": "/static/js/787.c3745516.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0c6a76c0.css",
-    "static/js/main.08b4dcbe.js"
+    "static/css/main.8f3a1472.css",
+    "static/js/main.a4a52d17.js"
   ]
 }
