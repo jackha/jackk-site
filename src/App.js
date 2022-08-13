@@ -1,6 +1,5 @@
 import './App.css';
 import AboutMe from "./components/AboutMe/AboutMe";
-import Footer from "./components/Footer/Footer";
 import CustomFurniture from "./components/CustomFurniture/CustomFurniture";
 import GalleryOverview from "./components/Gallery/GalleryOverview"
 import ProcessSimple from "./components/Process/ProcessSimple";
@@ -18,7 +17,6 @@ function App() {
       <ProcessSimple />
       <Testimonials />
       <AboutMe />
-      <Footer />
     </div>
   );
 }
