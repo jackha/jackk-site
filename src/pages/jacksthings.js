@@ -13,7 +13,7 @@ function JacksThingsPage() {
           Ik kon nergens een mooie visitekaartjeshouder vinden, dus ik heb mijn eigen versie bedacht en gemaakt. De uitvoering op de foto is van massief notenhout.
         </ImageMagnify>
 
-        <p className='site-contents'><NavigateButton link="https://www.etsy.com/shop/JacksThings" text="JacksThings on Etsy"/></p>
+        <p className='site-contents'><NavigateButton link="https://www.etsy.com/shop/JacksThings" text="JacksThings op Etsy"/></p>
       </div>
     </div>
   );
