@@ -31,7 +31,11 @@ const contact = () => {
           <h3>Links</h3>
           <div className={classes.row}>
             <div className={classes.iconize}>E</div>
-            <div><a href="https://www.etsy.com/shop/JacksThings">JacksThings op Etsy</a></div>
+            <div><a href="/jacksthings">JacksThings</a></div>
+          </div>
+          <div className={classes.row}>
+            <div className={classes.iconize}>E</div>
+            <div><a href="/amplivibe">Amplivibe</a></div>
           </div>
         </div>       
       </div>       

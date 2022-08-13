@@ -10,6 +10,7 @@ import WalnutBenchPage from "./pages/walnutbench";
 import KumikoRoomDividerPage from "./pages/kumikoroomdivider";
 import ToyStorageBoxPage from "./pages/toystoragebox";
 import ProcessPage from "./pages/process";
+import JacksThingsPage from "./pages/jacksthings";
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
@@ -25,6 +26,7 @@ ReactDOM.render(
           <Route path="amplivibe" element={<AmplivibePage />} />
           <Route path="custom-furniture" element={<CustomFurniturePage />} />
           <Route path="process" element={<ProcessPage />} />
+          <Route path="jacksthings" element={<JacksThingsPage />} />
           <Route path="portfolio/walnut-cabinet" element={<WalnutCabinetPage />} />
           <Route path="portfolio/walnut-bench" element={<WalnutBenchPage />} />
           <Route path="portfolio/kumiko-room-divider" element={<KumikoRoomDividerPage />} />
