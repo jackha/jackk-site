@@ -22,7 +22,6 @@ ReactDOM.render(
         <Route path="/" element={<Layout />}>
           <Route index element={<App />} />
           <Route path="testpage" element={<TestPage />} />
-          <Route path="amplivibe" element={<AmplivibePage />} />
           <Route path="custom-furniture" element={<CustomFurniturePage />} />
           <Route path="process" element={<ProcessPage />} />
           <Route path="portfolio/walnut-cabinet" element={<WalnutCabinetPage />} />
@@ -31,6 +30,7 @@ ReactDOM.render(
           <Route path="portfolio/toy-storage-box" element={<ToyStorageBoxPage />} />
           <Route path="*" element={<App />} />          
         </Route>
+        <Route path="/amplivibe" element={<AmplivibePage />}/>
       </Routes>
     </BrowserRouter>
   </React.StrictMode>,
