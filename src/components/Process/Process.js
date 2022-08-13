@@ -8,12 +8,14 @@ import classes from './Process.module.css'
 const process = () => {
   return (
     <React.Fragment>
-      <div className={`${classes.process} site-section`}>
-        <h3 className='site-contents title'>Hoe gaat het in zijn werk, een meubel ontwerpen en laten maken bij Jackk Meubels?</h3>
+      <div className={`site-section`}>
+        <h1 className='site-contents title'>Hoe gaat het in zijn werk, een meubel ontwerpen en laten maken bij Jackk Meubels?</h1>
         <div className='site-contents'>
 Bij Jackk Meubels weet je altijd precies waar je aan toe bent omdat we alle stappen vooraf duidelijk vastleggen zodat je nooit voor vervelende verrassingen komt te staan.
         </div>
-        <img src={aankoopproces}></img>
+        <div className='site-contents'>
+          <img src={aankoopproces}></img>
+        </div>
         <h4 className='site-contents'>Stap 1: Oriënterend gesprek</h4>
         <div className='site-contents'>
 Het eerste contact kan door <ContactButton text="hier" class="navigate-inline"/> een berichtje achter te laten. We prikken een datum en ik kom bij je langs. Onder het genot van een bakje koffie wordt er over de wensen en ideeën gepraat. Dit is helemaal vrijblijvend en gratis. Als er een klik is dan plannen we de volgende sessie om ontwerpen te bespreken. Voor het ontwerpen vraag ik wel een kleine bijdrage in de vorm van een intentieverklaring, ik investeer immers veel tijd bij het ontwerpen.
