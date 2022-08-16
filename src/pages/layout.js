@@ -6,10 +6,18 @@ import React from 'react'
 import SmallLogo from "../assets/jackk-meubels-logo.png";
 
 import Footer from "../components/Footer/Footer";
+import { useLocation } from "react-router-dom";
 
 
 /* the navbar has the pointer-events: none by default, so nav-brand and top-menu re-enabled the pointer events. This is so you can click through the empty parts of the navbar. */
 const Layout = () => {
+  let location = useLocation();
+  let title = "Jackk Meubels"
+  if (location.pathname != "/") {
+    title += " | " + location.pathname.substring(1, 100)
+  }
+  document.title = title
+
   return (
     <React.Fragment>
       <Navbar >
