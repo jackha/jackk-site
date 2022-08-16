@@ -10,7 +10,7 @@ function ProcessPage() {
       <div className='site-section'>
         <div className='site-contents'>
           <NavigateButton text="Terug" link="/#process"/>
-          <ContactButton text="Neem contact op" class="right-align"/>
+          <ContactButton text="Neem contact op" class="right-align" id="contact-process-page"/>
         </div>      
       </div>
     </div>

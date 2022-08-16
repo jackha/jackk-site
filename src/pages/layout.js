@@ -32,7 +32,7 @@ const Layout = () => {
             <a href='#over-mij' className='nav-link'>Over mij</a>  
           </li>*/}
           <li>
-            <ContactButton class="call-to-action-button"/>
+            <ContactButton class="call-to-action-button" id="contact-upper-right" />
           </li>
         </ul>
       </Navbar>

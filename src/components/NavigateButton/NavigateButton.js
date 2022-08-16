@@ -15,15 +15,19 @@ function openLink(link, linkname)
 function NavigateButton(props) {
     var contents = "Contact";
     var classname = "";
+    var id = "";
     if (props.text) {
         contents = props.text;
     }
     if (props.class) {
         classname = props.class;
     }
+    if (props.id) {
+        id = props.id;
+    }
 
     return (
-        <button button="success" className={classname} onClick={() => openLink(props.link, props.linkname)}>
+        <button button="success" className={classname} onClick={() => openLink(props.link, props.linkname)} id={id}>
             {contents}
         </button>
     )

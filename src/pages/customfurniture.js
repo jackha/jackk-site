@@ -23,7 +23,7 @@ function CustomFurniturePage() {
       <div className='site-section'>
         <div className='site-contents'>
           <NavigateButton text="Terug" link="/#portfolio"/>
-          <ContactButton text="Neem contact op" class="right-align"/>
+          <ContactButton text="Neem contact op" class="right-align" id="contact-custom-furniture-page" />
         </div>
       </div>
     </div>
