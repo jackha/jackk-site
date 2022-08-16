@@ -12,11 +12,11 @@ const contact = () => {
             <h3 id='contact'>Jackk Meubels</h3>
             <div className={classes.row}>
               <img className={classes.image} src={linkedin} alt='LinkedIn'></img>
-              <a href='https://www.linkedin.com/in/jack-ha-0a96314/'>Jack Ha</a>
+              <a href='https://www.linkedin.com/in/jack-ha-0a96314/' id="linkedin-footer">Jack Ha</a>
             </div>       
             <div className={classes.row}>
               <div className={classes.iconize}>@</div>
-              <a href='mailto:info@jackk.xyz'>info@jackk.xyz</a>
+              <a href='mailto:info@jackk.xyz' id="email-footer">info@jackk.xyz</a>
             </div>       
             <div className={classes.row}>
               <div className={classes.iconize}>t</div>
