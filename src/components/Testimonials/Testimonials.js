@@ -15,6 +15,10 @@ const testimonials = () => {
           <div className='testimonial'>“Jack heeft mij verrast met 2 bijzondere ontwerpen. Het eerste was precies waar ik om vroeg. Het 2e was 'out of the box' gedacht, wat meer ruimte creëerde en helemaal bij mij past. Ik werd er echt heel blij van!”</div>
           <div className='testimonialname'>~ Lisette - Amersfoort</div>
         </div>
+        <div className={`${classes.row} ${classes.block} site-contents` }>
+          <div className='testimonial'>“Doordacht, stijlvol, robuust, modern en vooral persoonlijk.”</div>
+          <div className='testimonialname'>~ Marian - Heerenveen</div>
+        </div>
       </div>
     </React.Fragment>
   )
