@@ -129,6 +129,15 @@ button:active {
   padding-top: 100px;
 }
 
+.testimonial {
+  font-style: italic;
+  padding: 0px 0px 8px 0px;
+  }
+
+.testimonialname {
+}
+
+
 @media only screen and (min-width: 800px) {
   .rm-hero-slider > div {
     height: 100vh !important;

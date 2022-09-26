@@ -8,12 +8,12 @@ const testimonials = () => {
       <div className='site-section'>
         <h3 className='site-contents title'>Wat klanten vinden</h3>
         <div className={`${classes.row} ${classes.block} site-contents ` }>
-          <div className={classes.testimonial}>“Wij zijn echt onder de indruk van je ontwerpen, ze zijn er mooier uitgekomen dan gedacht. Je hebt onze wensen goed verwerkt en echt over veel zaken nagedacht.”</div>
-          <div className={classes.testimonialname}>~ Jackson & Shareen - Utrecht</div>
+          <div className='testimonial'>“Wij zijn echt onder de indruk van je ontwerpen, ze zijn er mooier uitgekomen dan gedacht. Je hebt onze wensen goed verwerkt en echt over veel zaken nagedacht.”</div>
+          <div className='testimonialname'>~ Jackson & Shareen - Utrecht</div>
         </div>       
         <div className={`${classes.row} ${classes.block} site-contents` }>
-          <div className={classes.testimonial}>“Jack heeft mij verrast met 2 bijzondere ontwerpen. Het eerste was precies waar ik om vroeg. Het 2e was 'out of the box' gedacht, wat meer ruimte creëerde en helemaal bij mij past. Ik werd er echt heel blij van!”</div>
-          <div className={classes.testimonialname}>~ Lisette - Amersfoort</div>
+          <div className='testimonial'>“Jack heeft mij verrast met 2 bijzondere ontwerpen. Het eerste was precies waar ik om vroeg. Het 2e was 'out of the box' gedacht, wat meer ruimte creëerde en helemaal bij mij past. Ik werd er echt heel blij van!”</div>
+          <div className='testimonialname'>~ Lisette - Amersfoort</div>
         </div>
       </div>
     </React.Fragment>
