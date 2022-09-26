@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.4bbfbf9f.css",
-    "main.js": "/static/js/main.55af352e.js",
+    "main.css": "/static/css/main.02b80172.css",
+    "main.js": "/static/js/main.31b41382.js",
     "static/js/787.c3745516.chunk.js": "/static/js/787.c3745516.chunk.js",
     "static/media/ash-inlay-shaper.jpg": "/static/media/ash-inlay-shaper.93b33f7d4d79123e6c11.jpg",
     "static/media/lego-toy-box2.jpg": "/static/media/lego-toy-box2.a09fc4ce607bda17bcfa.jpg",
@@ -32,14 +32,15 @@
     "static/media/wip-inlay-small.jpg": "/static/media/wip-inlay-small.c64e95195abe3d1ad488.jpg",
     "static/media/ash-inlay-shaper-small.jpg": "/static/media/ash-inlay-shaper-small.84f1b21081daf3feb38c.jpg",
     "static/media/walnut-cabinet1-small.jpg": "/static/media/walnut-cabinet1-small.c41f1137c302c60020f6.jpg",
+    "static/media/mailbox-final.jfif": "/static/media/mailbox-final.d7f0f009206ff66613f2.jfif",
     "static/media/jackk-meubels-logo.png": "/static/media/jackk-meubels-logo.944fbcddcb55da1a4f18.png",
     "index.html": "/index.html",
-    "main.4bbfbf9f.css.map": "/static/css/main.4bbfbf9f.css.map",
-    "main.55af352e.js.map": "/static/js/main.55af352e.js.map",
+    "main.02b80172.css.map": "/static/css/main.02b80172.css.map",
+    "main.31b41382.js.map": "/static/js/main.31b41382.js.map",
     "787.c3745516.chunk.js.map": "/static/js/787.c3745516.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4bbfbf9f.css",
-    "static/js/main.55af352e.js"
+    "static/css/main.02b80172.css",
+    "static/js/main.31b41382.js"
   ]
 }

@@ -1,6 +1,7 @@
 import classes from './Gallery.module.css'
 import Gallery from "react-photo-gallery";
 
+import image5 from "./images/mailbox/mailbox-final.jfif";
 import image1 from "./images/art-deco-walnut-cabinet/walnut-cabinet1.jpg";
 import image2 from "./images/acoustic-room-divider/room-divider1.jpg";
 import image3 from "./images/art-deco-walnut-bench/walnut-bench1.jpg";
@@ -34,6 +35,13 @@ const photos = [
     height: 10,
     alt: "Art Deco style walnut bench with ash inlay",
     data: {goto: "portfolio/walnut-bench"}
+  },
+  {
+    src: image5,
+    width: 10,
+    height: 10,
+    alt: "Modern style design mailbox",
+    data: {goto: "portfolio/mailbox"}
   },
   {
     src: image4,
