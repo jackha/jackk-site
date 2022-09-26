@@ -16,13 +16,6 @@ function clickPhoto(event, photo)
 
 const photos = [
   {
-    src: image5,
-    width: 10,
-    height: 10,
-    alt: "Modern style design mailbox",
-    data: {goto: "portfolio/mailbox"}
-  },
-  {
     src: image1,
     width: 15,
     height: 10,
@@ -42,6 +35,13 @@ const photos = [
     height: 10,
     alt: "Art Deco style walnut bench with ash inlay",
     data: {goto: "portfolio/walnut-bench"}
+  },
+  {
+    src: image5,
+    width: 10,
+    height: 10,
+    alt: "Modern style design mailbox",
+    data: {goto: "portfolio/mailbox"}
   },
   {
     src: image4,
