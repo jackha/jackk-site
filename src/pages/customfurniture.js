@@ -16,8 +16,8 @@ function CustomFurniturePage() {
       Hier is een voorbeeld van een kast met heel specifieke stijlwensen. Art Deco druipt er vanaf. Ook moest de kast aan specifieke maten voldoen. Deze kast is een onderdeel van een grote wandkast en maakt de entree van de woning van deze klant.
       Wil je meer over deze Art Deco kast lezen? Klik dan <NavigateButton text="hier" link="/portfolio/walnut-cabinet" class="navigate-inline"/>.
       </ImageMagnify>
-      <ImageMagnify image_small={image_washing_machine} image={image_washing_machine} alt="Wasruimte met mechanische ventilatie">
-      Wellicht heb je reeds een wasmachine staan en een mechanische ventilatie installatie. Een ombouw en kast die de ruimte mooi en zo efficient mogelijk gebruikt vraagt om een meubel op maat.
+      <ImageMagnify image_small={image_washing_machine} image={image_washing_machine} alt="Wasruimte met mechanische ventilatie" ratio="1.2">
+      Wellicht heb je reeds een wasmachine staan en een mechanische ventilatie installatie. Een ombouw en kast die de ruimte mooi en zo efficient mogelijk gebruikt vraagt om een meubel op maat. Wil je meer over de uitkomst weten van dit project? Klik dan <NavigateButton text="hier" link="/portfolio/laundry-room" class="navigate-inline"/>.
       </ImageMagnify>
 
       <div className='site-section'>
