@@ -16,7 +16,15 @@ function LaundryRoomPage() {
         <h1 className='site-contents'>De hoofdletter L van Laundry</h1>
 
         <p className='site-contents testimonial'>
-        Testimonial
+        Toen we hoorden dat Jack voor zichzelf ging beginnen, hadden we gelijk al een verzoek klaarstaan! Wij wilden voor onze wasruimte een elegante oplossing waarin zowel de wasmachine en ventilatie weggewerkt kon worden, maar ook een ruimte creëren met heel veel opbergruimte. Het was letterlijk een zeer grote klus, maar gelukkig was Jack bereid om deze opdracht op zich te nemen.
+        </p>
+
+        <p className='site-contents testimonial'>
+        En het eindresultaat mag er zijn! Na wat varianten door te hebben besproken zijn we uitgekomen op een "L" vorm kast, hierin wordt de beschikbare ruimte optimaal benut en is de kale, open ruimte getransformeerd in een stijlvolle hoek. We hebben nog overwogen om er mooie motieven in te laten maken, gezien zijn designs er altijd fantastisch uitzien, maar uiteindelijk hebben we voor relatief simpel gekozen, omdat het een kast op zolder betreft en het op deze manier veel rust geeft.
+        </p>
+
+        <p className='site-contents testimonial'>
+        De details geven het geheel een unieke look. Het nisje wat boven de wasmachine is ingebouwd is van massief kersenhout en zorgt voor een levendig geheel. Zelfs het rooster voor de mechanische ventilatie heeft aandacht gekregen: een mooi patroon in de vorm van een soort sierlijke bloem. Al met al zijn we ontzettend tevreden over alles en doen we de was nu met veel plezier!
         </p>
 
 
@@ -25,32 +33,12 @@ function LaundryRoomPage() {
         </p>
       </div>
       <ImageMagnify image_small={image_washing_machine} image={image_washing_machine} alt="Wasruimte met mechanische ventilatie" ratio="1.2"/>
-      <div className='site-section'>
-        <p className='site-contents'>
-          De ruimte die ingericht moest worden heeft een wasmachine en een mechanische ventilatie; beiden mogen "weggewerkt" worden. Tevens was de wens dat er veel opbergruimte kwam.
-        </p>
-      </div>
 
       <ImageMagnify image_small={image1} image={image1} alt="Totaaloverzicht wasruimte" ratio="0.66"/>
-      <div className='site-section'>
-        <p className='site-contents'>
-          Na wat varianten door te hebben besproken zijn we uitgekomen op een "L" vorm kast - dit zorgt voor de meeste opbergruimte.
-        </p>
-      </div>
 
       <ImageMagnify image_small={image3} image={image3} alt="Zijaanzicht kast met nisje" ratio="0.66"/>
-      <div className='site-section'>
-        <p className='site-contents'>
-          Als detail boven de wasmachine is een nisje ingebouwd. Het nisje is van massief kersenhout gemaakt en zorgt voor een levendig geheel.
-        </p>
-      </div>
 
       <ImageMagnify image_small={image2} image={image2} alt="Mechanische ventilatie"/>
-      <div className='site-section'>
-        <p className='site-contents'>
-          Ook de mechanische ventilatie heeft aandacht gekregen - een soort sierlijke bloem zou je kunnen zeggen.
-        </p>
-      </div>
 
       <ImageMagnify image_small={image4} image={image4} alt="Detail van nisje"/>
 
