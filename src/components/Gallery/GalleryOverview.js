@@ -1,6 +1,7 @@
 import classes from './Gallery.module.css'
 import Gallery from "react-photo-gallery";
 
+import image7 from "./images/gea-zwart/gea_zwart_collaboration_inlay_detail.jpg";
 import image6 from "./images/laundry-room/nisje.jpg";
 import image5 from "./images/mailbox/mailbox-final.jfif";
 import image1 from "./images/art-deco-walnut-cabinet/walnut-cabinet1.jpg";
@@ -43,6 +44,13 @@ const photos = [
     height: 15,
     alt: "Custom cabinet for laundry room",
     data: {goto: "portfolio/laundry-room"}
+  },
+  {
+    src: image7,
+    width: 1732,
+    height: 1920,
+    alt: "Collaboration with Gea Zwart - custom art inlay",
+    data: {goto: "gea-zwart"}
   },
   {
     src: image5,
