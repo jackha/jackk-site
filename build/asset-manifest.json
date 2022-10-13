@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.02b80172.css",
-    "main.js": "/static/js/main.be8fbebe.js",
+    "main.js": "/static/js/main.ffb3e05b.js",
     "static/js/787.c3745516.chunk.js": "/static/js/787.c3745516.chunk.js",
     "static/media/ash-inlay-shaper.jpg": "/static/media/ash-inlay-shaper.93b33f7d4d79123e6c11.jpg",
     "static/media/lego-toy-box2.jpg": "/static/media/lego-toy-box2.a09fc4ce607bda17bcfa.jpg",
@@ -10,6 +10,7 @@
     "static/media/nisje-detail.jpg": "/static/media/nisje-detail.7a3a4cd9380ad1d46ee1.jpg",
     "static/media/laundry-room-total.jpg": "/static/media/laundry-room-total.660e7bf821b12d5bd8a6.jpg",
     "static/media/walnut-cabinet4.jpg": "/static/media/walnut-cabinet4.c7aa34e15630e6e97f8c.jpg",
+    "static/media/gea_zwart_collaboration_inlay_overview.jpg": "/static/media/gea_zwart_collaboration_inlay_overview.f6f9cce4c09a05701399.jpg",
     "static/media/room-divider2.jpg": "/static/media/room-divider2.e1d8222b46d62d13bbb7.jpg",
     "static/media/mechanische-ventilatie.jpg": "/static/media/mechanische-ventilatie.b24f5fd02ecd7937f225.jpg",
     "static/media/wip-inlay.jpg": "/static/media/wip-inlay.442d51fab07053d1f76e.jpg",
@@ -18,6 +19,7 @@
     "static/media/visitekaartjeshouder.jpg": "/static/media/visitekaartjeshouder.f7fd84ed3bc1187ee2d3.jpg",
     "static/media/hero-kamerscherm.jpg": "/static/media/hero-kamerscherm.b5b6d55b62e222685654.jpg",
     "static/media/walnut-cabinet2b.jpg": "/static/media/walnut-cabinet2b.15e0c073a07bb7f9983d.jpg",
+    "static/media/gea_zwart_collaboration_inlay_detail.jpg": "/static/media/gea_zwart_collaboration_inlay_detail.92c19c45098d1e52c29f.jpg",
     "static/media/walnut-cabinet5b.jpg": "/static/media/walnut-cabinet5b.e51691e06216085ab6a4.jpg",
     "static/media/walnut-cabinet2.jpg": "/static/media/walnut-cabinet2.e715927f40972c168090.jpg",
     "static/media/walnut-cabinet1.jpg": "/static/media/walnut-cabinet1.b939a36b4a4bdf45d63d.jpg",
@@ -40,11 +42,11 @@
     "static/media/jackk-meubels-logo.png": "/static/media/jackk-meubels-logo.944fbcddcb55da1a4f18.png",
     "index.html": "/index.html",
     "main.02b80172.css.map": "/static/css/main.02b80172.css.map",
-    "main.be8fbebe.js.map": "/static/js/main.be8fbebe.js.map",
+    "main.ffb3e05b.js.map": "/static/js/main.ffb3e05b.js.map",
     "787.c3745516.chunk.js.map": "/static/js/787.c3745516.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.02b80172.css",
-    "static/js/main.be8fbebe.js"
+    "static/js/main.ffb3e05b.js"
   ]
 }
