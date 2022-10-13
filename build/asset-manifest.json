@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.02b80172.css",
-    "main.js": "/static/js/main.ffb3e05b.js",
+    "main.js": "/static/js/main.c8d4d9c6.js",
     "static/js/787.c3745516.chunk.js": "/static/js/787.c3745516.chunk.js",
     "static/media/ash-inlay-shaper.jpg": "/static/media/ash-inlay-shaper.93b33f7d4d79123e6c11.jpg",
     "static/media/lego-toy-box2.jpg": "/static/media/lego-toy-box2.a09fc4ce607bda17bcfa.jpg",
@@ -42,11 +42,11 @@
     "static/media/jackk-meubels-logo.png": "/static/media/jackk-meubels-logo.944fbcddcb55da1a4f18.png",
     "index.html": "/index.html",
     "main.02b80172.css.map": "/static/css/main.02b80172.css.map",
-    "main.ffb3e05b.js.map": "/static/js/main.ffb3e05b.js.map",
+    "main.c8d4d9c6.js.map": "/static/js/main.c8d4d9c6.js.map",
     "787.c3745516.chunk.js.map": "/static/js/787.c3745516.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.02b80172.css",
-    "static/js/main.ffb3e05b.js"
+    "static/js/main.c8d4d9c6.js"
   ]
 }
