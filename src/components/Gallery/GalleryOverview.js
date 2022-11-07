@@ -1,6 +1,7 @@
 import classes from './Gallery.module.css'
 import Gallery from "react-photo-gallery";
 
+import image8 from "./images/home-office/wandkast-studio.jpg";
 import image7 from "./images/gea-zwart/gea_zwart_collaboration_inlay_detail.jpg";
 import image6 from "./images/laundry-room/nisje.jpg";
 import image5 from "./images/mailbox/mailbox-final.jfif";
@@ -17,6 +18,13 @@ function clickPhoto(event, photo)
 }
 
 const photos = [
+  {
+    src: image8,
+    width: 15,
+    height: 10,
+    alt: "Custom wall cabinet with zig-zag pattern",
+    data: {goto: "portfolio/home-office"}
+  },
   {
     src: image1,
     width: 15,

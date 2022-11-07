@@ -16,6 +16,7 @@ import image3 from './images/hero-bench.jpg';
 import image4 from './images/hero-muurkast.jpg';
 import image5 from './images/hero-bar.jpg';
 import image6 from '../Gallery/images/laundry-room/nisje-detail.jpg';
+import image7 from './images/hero-wandkast.jpg';
 
 const image1alt = "Design Art Deco Kast | Jackk Meubels";
 const image2alt = "Design Akoestisch Kamerscherm | Jackk Meubels";
@@ -23,6 +24,7 @@ const image3alt = "Design Art Deco Walnoten Bankje | Jackk Meubels";
 const image4alt = "Design Wandkast | Jackk Meubels";
 const image5alt = "Design Bar | Jackk Meubels";
 const image6alt = "Design L Kast | Jackk Meubels";
+const image7alt = "Design wandkast | Jackk Meubels";
 
 const app = () => {
   // const nextSlideHandler = React.useRef();
@@ -81,6 +83,14 @@ const app = () => {
           </div> */}
         </Wrapper>
       </OverlayContainer>
+
+      <Slide
+        background={{
+          backgroundImage: image7,
+          backgroundAttachment: "fixed",
+          alt: image7alt
+        }}
+      />
 
       <Slide
         background={{

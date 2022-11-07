@@ -5,7 +5,7 @@ import ImageMagnify from "../components/ImageMagnify/ImageMagnify"
 import image1 from "../components/Gallery/images/gea-zwart/gea_zwart_collaboration_inlay_overview.jpg";
 
 
-function LaundryRoomPage() {
+function GeaPage() {
   return (
     <div className="App avoid-logo">
       <div className='site-section'>
@@ -35,4 +35,4 @@ function LaundryRoomPage() {
   );
 }
 
-export default LaundryRoomPage;
+export default GeaPage;

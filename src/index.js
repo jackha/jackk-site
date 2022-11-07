@@ -6,6 +6,7 @@ import Layout from "./pages/layout";
 import TestPage from "./pages/testpage";
 import CustomFurniturePage from "./pages/customfurniture";
 import GeaZwartPage from "./pages/gea-zwart";
+import HomeOfficePage from "./pages/home-office";
 import LaundryRoomPage from "./pages/laundry-room";
 import WalnutCabinetPage from "./pages/walnutcabinet";
 import WalnutBenchPage from "./pages/walnutbench";
@@ -30,6 +31,7 @@ ReactDOM.render(
           <Route path="process" element={<ProcessPage />} />
           <Route path="jacksthings" element={<JacksThingsPage />} />
           <Route path="gea-zwart" element={<GeaZwartPage />} />
+          <Route path="portfolio/home-office" element={<HomeOfficePage />} />
           <Route path="portfolio/laundry-room" element={<LaundryRoomPage />} />
           <Route path="portfolio/walnut-cabinet" element={<WalnutCabinetPage />} />
           <Route path="portfolio/walnut-bench" element={<WalnutBenchPage />} />
