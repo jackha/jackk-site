@@ -1,6 +1,7 @@
 import classes from './Gallery.module.css'
 import Gallery from "react-photo-gallery";
 
+import image9 from "./images/rene-chang/zet_up_logo_crop.jpg";
 import image8 from "./images/home-office/wandkast-studio.jpg";
 import image7 from "./images/gea-zwart/gea_zwart_collaboration_inlay_detail.jpg";
 import image6 from "./images/laundry-room/nisje.jpg";
@@ -59,6 +60,13 @@ const photos = [
     height: 1920,
     alt: "Collaboration with Gea Zwart - custom art inlay",
     data: {goto: "gea-zwart"}
+  },
+  {
+    src: image9,
+    width: 10,
+    height: 10,
+    alt: "Zet-Up logo by Jackk Meubels",
+    data: {goto: "rene-chang"}
   },
   {
     src: image5,
