@@ -70,7 +70,7 @@ function RenePage() {
         </p>
 
         <p className='site-contents'>
-        ~ René Chang, eigenaar Zet-Up, Haarlem
+        ~ René Chang, mede-eigenaar Zet-Up, Haarlem
         </p>
       </div>
 
