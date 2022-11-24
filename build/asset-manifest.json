@@ -1,12 +1,13 @@
 {
   "files": {
     "main.css": "/static/css/main.02b80172.css",
-    "main.js": "/static/js/main.53637961.js",
+    "main.js": "/static/js/main.1c2815fc.js",
     "static/js/787.c3745516.chunk.js": "/static/js/787.c3745516.chunk.js",
     "static/media/ash-inlay-shaper.jpg": "/static/media/ash-inlay-shaper.93b33f7d4d79123e6c11.jpg",
     "static/media/lego-toy-box2.jpg": "/static/media/lego-toy-box2.a09fc4ce607bda17bcfa.jpg",
     "static/media/room-divider1.jpg": "/static/media/room-divider1.4c428faec73fb705d51a.jpg",
     "static/media/stroom-vak.jpg": "/static/media/stroom-vak.6a37fdb3b2273615d945.jpg",
+    "static/media/rene_chang_met_jack.jpg": "/static/media/rene_chang_met_jack.16e94dd1923350e0f1e1.jpg",
     "static/media/nisje.jpg": "/static/media/nisje.4208dd5c4df272d9048a.jpg",
     "static/media/nisje-detail.jpg": "/static/media/nisje-detail.7a3a4cd9380ad1d46ee1.jpg",
     "static/media/laundry-room-total.jpg": "/static/media/laundry-room-total.660e7bf821b12d5bd8a6.jpg",
@@ -15,6 +16,7 @@
     "static/media/gea_zwart_collaboration_inlay_overview.jpg": "/static/media/gea_zwart_collaboration_inlay_overview.f6f9cce4c09a05701399.jpg",
     "static/media/room-divider2.jpg": "/static/media/room-divider2.e1d8222b46d62d13bbb7.jpg",
     "static/media/mechanische-ventilatie.jpg": "/static/media/mechanische-ventilatie.b24f5fd02ecd7937f225.jpg",
+    "static/media/zet_up_logo.jpg": "/static/media/zet_up_logo.8f514f389d817b76b334.jpg",
     "static/media/wip-inlay.jpg": "/static/media/wip-inlay.442d51fab07053d1f76e.jpg",
     "static/media/walnut-cabinet5c.jpg": "/static/media/walnut-cabinet5c.123260a6f44f9f478c7a.jpg",
     "static/media/walnut-cabinet5.jpg": "/static/media/walnut-cabinet5.3e57c2c614da0779905c.jpg",
@@ -38,6 +40,7 @@
     "static/media/walnut-bench2.jpg": "/static/media/walnut-bench2.3f635b0110b12093a92b.jpg",
     "static/media/walnut-bench3.jpg": "/static/media/walnut-bench3.d10234622fc0422a72e3.jpg",
     "static/media/jack.jpg": "/static/media/jack.b79f7410000a90e5b38f.jpg",
+    "static/media/zet_up_logo_crop.jpg": "/static/media/zet_up_logo_crop.3287252325374ce55f63.jpg",
     "static/media/hero-bar.jpg": "/static/media/hero-bar.544ffe60983f2ef4ddf1.jpg",
     "static/media/werkkamer-zijkant.jpg": "/static/media/werkkamer-zijkant.b32f56c3fd8df2842475.jpg",
     "static/media/aankoopproces.svg": "/static/media/aankoopproces.133e11c0b4f1c32799194bdda82d1a6d.svg",
@@ -47,14 +50,15 @@
     "static/media/ash-inlay-shaper-small.jpg": "/static/media/ash-inlay-shaper-small.84f1b21081daf3feb38c.jpg",
     "static/media/walnut-cabinet1-small.jpg": "/static/media/walnut-cabinet1-small.c41f1137c302c60020f6.jpg",
     "static/media/mailbox-final.jfif": "/static/media/mailbox-final.d7f0f009206ff66613f2.jfif",
+    "static/media/zet_up_logo_collage.jfif": "/static/media/zet_up_logo_collage.a838cee61bef2c008cbc.jfif",
     "static/media/jackk-meubels-logo.png": "/static/media/jackk-meubels-logo.944fbcddcb55da1a4f18.png",
     "index.html": "/index.html",
     "main.02b80172.css.map": "/static/css/main.02b80172.css.map",
-    "main.53637961.js.map": "/static/js/main.53637961.js.map",
+    "main.1c2815fc.js.map": "/static/js/main.1c2815fc.js.map",
     "787.c3745516.chunk.js.map": "/static/js/787.c3745516.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.02b80172.css",
-    "static/js/main.53637961.js"
+    "static/js/main.1c2815fc.js"
   ]
 }
