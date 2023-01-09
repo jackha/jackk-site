@@ -12,6 +12,7 @@ import WalnutCabinetPage from "./pages/walnutcabinet";
 import WalnutBenchPage from "./pages/walnutbench";
 import KumikoRoomDividerPage from "./pages/kumikoroomdivider";
 import ReneChangPage from "./pages/rene-chang";
+import SlingerPage from "./pages/slinger";
 import ToyStorageBoxPage from "./pages/toystoragebox";
 import MailBoxPage from "./pages/mailbox";
 import ProcessPage from "./pages/process";
@@ -35,6 +36,7 @@ ReactDOM.render(
           <Route path="rene-chang" element={<ReneChangPage />} />
           <Route path="portfolio/home-office" element={<HomeOfficePage />} />
           <Route path="portfolio/laundry-room" element={<LaundryRoomPage />} />
+          <Route path="portfolio/slinger" element={<SlingerPage />} />
           <Route path="portfolio/walnut-cabinet" element={<WalnutCabinetPage />} />
           <Route path="portfolio/walnut-bench" element={<WalnutBenchPage />} />
           <Route path="portfolio/kumiko-room-divider" element={<KumikoRoomDividerPage />} />
