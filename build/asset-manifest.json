@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.75556542.css",
+    "main.css": "/static/css/main.b54331d8.css",
     "main.js": "/static/js/main.0afa66c4.js",
     "static/js/787.c3745516.chunk.js": "/static/js/787.c3745516.chunk.js",
     "static/media/ash-inlay-shaper.jpg": "/static/media/ash-inlay-shaper.93b33f7d4d79123e6c11.jpg",
@@ -57,12 +57,12 @@
     "static/media/de-slinger-totaal.jpg": "/static/media/de-slinger-totaal.eb550d0fd6752e801fd9.jpg",
     "static/media/jackk-meubels-logo.png": "/static/media/jackk-meubels-logo.944fbcddcb55da1a4f18.png",
     "index.html": "/index.html",
-    "main.75556542.css.map": "/static/css/main.75556542.css.map",
+    "main.b54331d8.css.map": "/static/css/main.b54331d8.css.map",
     "main.0afa66c4.js.map": "/static/js/main.0afa66c4.js.map",
     "787.c3745516.chunk.js.map": "/static/js/787.c3745516.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.75556542.css",
+    "static/css/main.b54331d8.css",
     "static/js/main.0afa66c4.js"
   ]
 }
