@@ -2,7 +2,8 @@ import ContactButton from "../components/ContactButton/ContactButton"
 import NavigateButton from "../components/NavigateButton/NavigateButton"  
 import ImageMagnify from "../components/ImageMagnify/ImageMagnify"
 import image3 from "../components/Gallery/images/art-deco-walnut-cabinet/walnut-cabinet3.jpg";
-import image_washing_machine from "./images/wasmachine-mv.png";
+import image8 from "../components/Slider/images/hero-wandkast.jpg";
+import image_patterns from "../components/Gallery/images/acoustic-room-divider/room-divider2.jpg";
 
 function CustomFurniturePage() {
   return (
@@ -16,8 +17,11 @@ function CustomFurniturePage() {
       Hier is een voorbeeld van een kast met heel specifieke stijlwensen. Art Deco druipt er vanaf. Ook moest de kast aan specifieke maten voldoen. Deze kast is een onderdeel van een grote wandkast en maakt de entree van de woning van deze klant.
       Wil je meer over deze Art Deco kast lezen? Klik dan <NavigateButton text="hier" link="/portfolio/walnut-cabinet" class="navigate-inline"/>.
       </ImageMagnify>
-      <ImageMagnify image_small={image_washing_machine} image={image_washing_machine} alt="Wasruimte met mechanische ventilatie" ratio="1.2">
-      Wellicht heb je reeds een wasmachine staan en een mechanische ventilatie installatie. Een ombouw en kast die de ruimte mooi en zo efficient mogelijk gebruikt vraagt om een meubel op maat. Wil je meer over de uitkomst weten van dit project? Klik dan <NavigateButton text="hier" link="/portfolio/laundry-room" class="navigate-inline"/>.
+      <ImageMagnify image_small={image8} image={image8} alt="Luxe moderne wandkast">
+      Nog een voorbeeld met specifieke stijlwensen. Deze wandkast is modern met een twist, zullen we maar zeggen. Wil je meer over deze kast lezen? Klik dan <NavigateButton text="hier" link="/portfolio/home-office" class="navigate-inline" />.
+      </ImageMagnify>
+      <ImageMagnify image_small={image_patterns} image={image_patterns} alt="Kumiko patronen in kamerscherm">
+        Wellicht wil je patronen verwerkt in je meubel, zoals in dit kamerscherm. Wil je hier meer over lezen? Klik dan <NavigateButton text="hier" link="/portfolio/kumiko-room-divider" class="navigate-inline" />.
       </ImageMagnify>
 
       <div className='site-section'>
