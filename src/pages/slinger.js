@@ -21,7 +21,7 @@ function SlingerPage() {
         </p>
 
         <p className='site-contents'>
-        ~ Mieke Buchner
+        ~ Mieke en Peter-Paul Buchner
         </p>
       </div>
 
