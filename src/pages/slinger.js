@@ -17,9 +17,6 @@ function SlingerPage() {
         De Slinger
         </p>
 
-        <ImageMagnify image_small={image3} image={image3} alt="De Slinger totaal"/>
-
-
         <p className='site-contents testimonial'>
         </p>
 
@@ -28,6 +25,7 @@ function SlingerPage() {
         </p>
       </div>
 
+      <ImageMagnify image_small={image3} image={image3} alt="De Slinger totaal" />
       <ImageMagnify image_small={image1} image={image1} alt="De Slinger totaal" ratio="0.66"/>
       <ImageMagnify image_small={image2} image={image2} alt="De Slinger totaal"/>
 
