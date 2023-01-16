@@ -35,9 +35,10 @@
   }
 
   .image {
-    width: 180px;
+    width: 250px;
     height: 100%;
     padding-top: 0px;
+    padding-left: 20px;
   }
 }
 
