@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.46bc03c4.css",
-    "main.js": "/static/js/main.c42d7f02.js",
+    "main.css": "/static/css/main.75556542.css",
+    "main.js": "/static/js/main.03d4c071.js",
     "static/js/787.c3745516.chunk.js": "/static/js/787.c3745516.chunk.js",
     "static/media/ash-inlay-shaper.jpg": "/static/media/ash-inlay-shaper.93b33f7d4d79123e6c11.jpg",
     "static/media/lego-toy-box2.jpg": "/static/media/lego-toy-box2.a09fc4ce607bda17bcfa.jpg",
@@ -46,6 +46,7 @@
     "static/media/aankoopproces.svg": "/static/media/aankoopproces.133e11c0b4f1c32799194bdda82d1a6d.svg",
     "static/media/werkkamer-hoek.jpg": "/static/media/werkkamer-hoek.c254344f57950e668474.jpg",
     "static/media/jack-aan-het-werk.jpg": "/static/media/jack-aan-het-werk.33c46fdb04e05fc49bda.jpg",
+    "static/media/jack-at-work.jpg": "/static/media/jack-at-work.c179f771215a8f9c7f92.jpg",
     "static/media/de-slinger-detail1.jpg": "/static/media/de-slinger-detail1.e57f60348d4152877a45.jpg",
     "static/media/wip-inlay-small.jpg": "/static/media/wip-inlay-small.c64e95195abe3d1ad488.jpg",
     "static/media/ash-inlay-shaper-small.jpg": "/static/media/ash-inlay-shaper-small.84f1b21081daf3feb38c.jpg",
@@ -56,12 +57,12 @@
     "static/media/de-slinger-totaal.jpg": "/static/media/de-slinger-totaal.eb550d0fd6752e801fd9.jpg",
     "static/media/jackk-meubels-logo.png": "/static/media/jackk-meubels-logo.944fbcddcb55da1a4f18.png",
     "index.html": "/index.html",
-    "main.46bc03c4.css.map": "/static/css/main.46bc03c4.css.map",
-    "main.c42d7f02.js.map": "/static/js/main.c42d7f02.js.map",
+    "main.75556542.css.map": "/static/css/main.75556542.css.map",
+    "main.03d4c071.js.map": "/static/js/main.03d4c071.js.map",
     "787.c3745516.chunk.js.map": "/static/js/787.c3745516.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.46bc03c4.css",
-    "static/js/main.c42d7f02.js"
+    "static/css/main.75556542.css",
+    "static/js/main.03d4c071.js"
   ]
 }
