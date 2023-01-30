@@ -14,19 +14,18 @@ function SlingerPage() {
         <h1 className='site-contents'>De Slinger</h1>
 
         <p className='site-contents'>
-        De Slinger
-        </p>
-
-        <ImageMagnify image_small={image3} image={image3} alt="De Slinger totaal"/>
-
-
-        <p className='site-contents testimonial'>
+         Het huis is geupgraded met vloerverwarming en een nieuwe vloer. Het speelgoed is voor het grootste deel uit de woonkamer verdwenen om plaats te maken voor wat moois. In het midden van de woonkamer moet een nieuwe kast komen. Gezellig en sprekend, met plek voor boeken, platen en platenspeler en nog wat speelgoed wat "weggeborgen" mag worden.
         </p>
 
         <p className='site-contents'>
-        ~ Mieke Buchner
+         Met deze opdracht ben ik een tijd geleden aan de slag gegaan. Zoals altijd presenteer ik meerdere ontwerpen die zoveel mogelijk aansluiten bij de wensen van de klant. De drie ontwerpen vielen erg in de smaak, maar deze kast kreeg duidelijk de voorkeur.
+        </p>
+
+        <p className='site-contents'>
+         Met een lijn die als het ware als een rode draad door de kast loopt, met schuin lopende delen, met eikenhout en als contrast essenhout presenteer ik bij deze: "De Slinger".
         </p>
       </div>
+      <ImageMagnify image_small={image3} image={image3} alt="De Slinger totaal" />
 
       <ImageMagnify image_small={image1} image={image1} alt="De Slinger totaal" ratio="0.66"/>
       <ImageMagnify image_small={image2} image={image2} alt="De Slinger totaal"/>
