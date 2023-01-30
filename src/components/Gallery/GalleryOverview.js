@@ -21,13 +21,6 @@ function clickPhoto(event, photo)
 
 const photos = [
   {
-    src: image10,
-    width: 15,
-    height: 10,
-    alt: "Detail of a design cabinet 'de Slinger'",
-    data: { goto: "portfolio/slinger" }
-  }, 
-  {
     src: image8,
     width: 15,
     height: 10,
@@ -41,6 +34,13 @@ const photos = [
     alt: "Art Deco style walnut cabinet with ash inlay",
     data: {goto: "portfolio/walnut-cabinet"}
   },
+{
+    src: image10,
+    width: 15,
+    height: 10,
+    alt: "Detail of a design cabinet 'de Slinger'",
+    data: { goto: "portfolio/slinger" }
+}, 
   {
     src: image2,
     width: 1492,
