@@ -24,7 +24,7 @@ const contact = () => {
             </div>       
             <div className={classes.row}>
               <div className={classes.iconize}>a</div>
-              <div>Kwikstaartlaan 9 3704GS Zeist</div>
+              <div>Adriaan Menninckkwartier 57 3554CS Utrecht</div>
             </div>
             <div className={classes.row}>
               <div className={classes.iconize}>btw</div>
