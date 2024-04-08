@@ -1,6 +1,7 @@
 import classes from './Gallery.module.css'
 import Gallery from "react-photo-gallery";
 
+import image11 from "./images/bauhaus-home-office/jackk-meubels-detail-of-modern-cabinet-zeist-utrecht.jpg";
 import image10 from "./images/slinger/de-slinger-detail1.jpg";
 import image9 from "./images/rene-chang/zet_up_logo_crop.jpg";
 import image8 from "./images/home-office/wandkast-studio.jpg";
@@ -20,6 +21,13 @@ function clickPhoto(event, photo)
 }
 
 const photos = [
+    {
+        src: image11,
+        width: 810,
+        height: 1080,
+        alt: "Custom wall cabinet based for bauhaus home surrounded by trees",
+        data: { goto: "portfolio/bauhaus-home-office" }
+    },
   {
     src: image8,
     width: 15,
