@@ -1,6 +1,7 @@
 import classes from './Gallery.module.css'
 import Gallery from "react-photo-gallery";
 
+import image12 from "./images/coffee-corner/jackk-meubels-utrecht-zeist-detail-koffie-hoek.jpg";
 import image11 from "./images/bauhaus-home-office/jackk-meubels-detail-of-modern-cabinet-zeist-utrecht.jpg";
 import image10 from "./images/slinger/de-slinger-detail1.jpg";
 import image9 from "./images/rene-chang/zet_up_logo_crop.jpg";
@@ -41,7 +42,14 @@ const photos = [
     height: 10,
     alt: "Art Deco style walnut cabinet with ash inlay",
     data: {goto: "portfolio/walnut-cabinet"}
-  },
+    },
+    {
+        src: image12,
+        width: 519,
+        height: 1080,
+        alt: "Jackk Meubels design koffie hoek met spijlers, massief essenhout en kersenhout",
+        data: { goto: "portfolio/coffee-corner" }
+    },
 {
     src: image10,
     width: 15,
