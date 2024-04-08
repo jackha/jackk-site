@@ -4,6 +4,7 @@ import ImageMagnify from "../components/ImageMagnify/ImageMagnify"
 import image3 from "../components/Gallery/images/art-deco-walnut-cabinet/walnut-cabinet3.jpg";
 import image8 from "../components/Slider/images/hero-wandkast.jpg";
 import image_patterns from "../components/Gallery/images/acoustic-room-divider/room-divider2.jpg";
+import image1 from "../components/Gallery/images/bauhaus-home-office/jackk-meubels-utrecht-zeist-overzicht-moderne-bauhaus-kast-in-het-bos.jpg";
 
 function CustomFurniturePage() {
   return (
@@ -12,9 +13,20 @@ function CustomFurniturePage() {
         <h1 className='site-contents'>Wat betekent dat eigenlijk, een meubel op maat?</h1>
         <p className='site-contents'>Mijn klanten kiezen voor unieke meubels waarin al zijn persoonlijke wensen zijn verwerkt, duurzaam en van hoge kwaliteit met een bijzonder design. Soms is dat omdat ze slimme oplossingen willen voor de beperkte ruimte in hun huis. Soms omdat ze een meubel willen dat een leven lang meegaat. En soms omdat ze gewoon een mooi meubel willen naar hun eigen smaak dat nergens te koop is.</p>
         <p className='site-contents'>Je leest het goed, het kan echt van alles zijn. Een dressoir, een kast, een tafel, een tv meubel. Ook kan het meubel voor allerlei ruimtes geschikt zijn, voor je woonkamer, je slaapkamer, wasruimte, werkkamer en noem maar op.</p>
-      </div>
-      <ImageMagnify image_small={image3} image={image3} alt="Art Deco kast, lade detail">
-      Hier is een voorbeeld van een kast met heel specifieke stijlwensen. Art Deco druipt er vanaf. Ook moest de kast aan specifieke maten voldoen. Deze kast is een onderdeel van een grote wandkast en maakt de entree van de woning van deze klant.
+              <p className='site-contents'>Met een passie voor kwaliteit en innovatie zijn ben ik gespecialiseerd in het cre&euml;ren van op maat gemaakt meubilair dat perfect aansluit bij uw unieke stijl en ruimte. Of u nu op zoek bent naar modern minimalisme of klassieke elegantie, ik sluit me helemaal bij jou aan.</p>
+
+          </div>
+          <ImageMagnify image_small={image1} image={image1} alt="Jackk Meubels Utrecht Zeist moderne kast passend bij een bauhaus stijl, in het midden van het bos">
+              Dit uitzonderlijke meubelstuk is geinspireerd door het prachtige Bauhaus stijl huis en het bos waar het huis mee wordt omringd.
+
+              Wil je meer over deze kast lezen? Klik dan <NavigateButton text="hier" link="/portfolio/bauhaus-home-office" class="navigate-inline" />.
+          </ImageMagnify>
+
+
+          <ImageMagnify image_small={image3} image={image3} alt="Art Deco kast, lade detail">
+              Van de strakke lijnen en geometrische vormen tot de luxueuze materialen en decadente afwerkingen, dit stuk gaar naar de essentie van de Art Deco-stijl. Het massieve walnoothout wordt verrijkt met ingelegd hout van essen, waardoor een opvallend contrast ontstaat dat meteen de aandacht trekt.
+
+              Met zijn gedurfde maar verfijnde esthetiek is deze Art Deco kast perfect voor deze klant, die graag een vleugje vintage glamour wou.
       Wil je meer over deze Art Deco kast lezen? Klik dan <NavigateButton text="hier" link="/portfolio/walnut-cabinet" class="navigate-inline"/>.
       </ImageMagnify>
       <ImageMagnify image_small={image8} image={image8} alt="Luxe moderne wandkast">
