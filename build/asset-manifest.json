@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.5d53613d.css",
-    "main.js": "/static/js/main.2d796326.js",
+    "main.js": "/static/js/main.725ea648.js",
     "static/js/787.c3745516.chunk.js": "/static/js/787.c3745516.chunk.js",
     "static/media/ash-inlay-shaper.jpg": "/static/media/ash-inlay-shaper.93b33f7d4d79123e6c11.jpg",
     "static/media/lego-toy-box2.jpg": "/static/media/lego-toy-box2.a09fc4ce607bda17bcfa.jpg",
@@ -43,6 +43,7 @@
     "static/media/werkkamer-zijkant.jpg": "/static/media/werkkamer-zijkant.b32f56c3fd8df2842475.jpg",
     "static/media/aankoopproces.svg": "/static/media/aankoopproces.133e11c0b4f1c32799194bdda82d1a6d.svg",
     "static/media/jackk-meubels-utrecht-zeist-overzicht-moderne-bauhaus-kast-in-het-bos.jpg": "/static/media/jackk-meubels-utrecht-zeist-overzicht-moderne-bauhaus-kast-in-het-bos.ed7ef9db452955d2d388.jpg",
+    "static/media/jackk-meubels-utrecht-zeist-overzicht-moderne-bauhaus-kast-in-het-bos-no-logo.jpg": "/static/media/jackk-meubels-utrecht-zeist-overzicht-moderne-bauhaus-kast-in-het-bos-no-logo.fcfde55e3439dee1a580.jpg",
     "static/media/jackk-meubels-utrecht-zeist-overzicht-moderne-bauhaus-kast-in-het-bos-overdag.jpg": "/static/media/jackk-meubels-utrecht-zeist-overzicht-moderne-bauhaus-kast-in-het-bos-overdag.caecd1f6c08b79b2ac72.jpg",
     "static/media/werkkamer-hoek.jpg": "/static/media/werkkamer-hoek.c254344f57950e668474.jpg",
     "static/media/jackk-meubels-zeist-utrecht-detail-of-modern-cabinet-legs.jpg": "/static/media/jackk-meubels-zeist-utrecht-detail-of-modern-cabinet-legs.af21b58a47c82751dd4a.jpg",
@@ -62,11 +63,11 @@
     "static/media/jackk-meubels-logo.png": "/static/media/jackk-meubels-logo.944fbcddcb55da1a4f18.png",
     "index.html": "/index.html",
     "main.5d53613d.css.map": "/static/css/main.5d53613d.css.map",
-    "main.2d796326.js.map": "/static/js/main.2d796326.js.map",
+    "main.725ea648.js.map": "/static/js/main.725ea648.js.map",
     "787.c3745516.chunk.js.map": "/static/js/787.c3745516.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5d53613d.css",
-    "static/js/main.2d796326.js"
+    "static/js/main.725ea648.js"
   ]
 }
