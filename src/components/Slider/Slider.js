@@ -13,18 +13,16 @@ import Wrapper from "../Wrapper/Wrapper";
 import image1 from './images/hero-art-deco-cabinet.jpg';
 import image2 from './images/hero-kamerscherm.jpg';
 import image3 from './images/hero-bench.jpg';
-import image4 from './images/hero-muurkast.jpg';
-import image5 from './images/hero-bar.jpg';
 import image7 from './images/hero-wandkast.jpg';
 import image8 from '../Gallery/images/slinger/de-slinger-detail1.jpg';
+import image9 from '../Gallery/images/bauhaus-home-office/jackk-meubels-utrecht-zeist-overzicht-moderne-bauhaus-kast-in-het-bos.jpg';
 
 const image1alt = "Design Art Deco Kast | Jackk Meubels";
 const image2alt = "Design Akoestisch Kamerscherm | Jackk Meubels";
 const image3alt = "Design Art Deco Walnoten Bankje | Jackk Meubels";
-const image4alt = "Design Wandkast | Jackk Meubels";
-const image5alt = "Design Bar | Jackk Meubels";
 const image7alt = "Design wandkast | Jackk Meubels";
 const image8alt = "Design boekenkast | Jackk Meubels";
+const image9alt = "Design studeerkamer kast | Jackk Meubels";
 
 const app = () => {
   // const nextSlideHandler = React.useRef();
@@ -84,6 +82,15 @@ const app = () => {
         </Wrapper>
       </OverlayContainer>
 
+
+          <Slide
+              background={{
+                  backgroundImage: image9,
+                  backgroundAttachment: "fixed",
+                  alt: image9alt
+              }}
+          />
+
       <Slide
         background={{
           backgroundImage: image7,
@@ -121,22 +128,6 @@ const app = () => {
           backgroundImage: image3,
           backgroundAttachment: "fixed",
           alt: image3alt
-        }}
-      />
-
-      <Slide
-        background={{
-          backgroundImage: image4,
-          backgroundAttachment: "fixed",
-          alt: image4alt
-        }}
-      />
-
-      <Slide
-        background={{
-          backgroundImage: image5,
-          backgroundAttachment: "fixed",
-          alt: image5alt
         }}
       />
 
