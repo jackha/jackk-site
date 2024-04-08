@@ -53,6 +53,11 @@ const contact = () => {
                   </div>
               </div>   
               <div class={classes.seorow}>Ik ontwerp en maak unieke meubels naar jouw wensen.Gevestigd in Utrecht, maar werkzaam in heel Nederland. Transformeer uw ruimte met op maat gemaakte creaties van Jackk Meubels, de toonaangevende maker en ontwerper van op maat gemaakt meubilair. Ik ontwerp en vervaardig gepersonaliseerde stukken die zijn afgestemd op uw exacte stijl wensen, functie en specificaties, waarbij voortreffelijk vakmanschap wordt gecombineerd met ongeevenaarde aandacht voor detail. Breng uw interieur naar een hoger niveau met unieke, handgemaakte meubels die uw individuele stijl weerspiegelen. Neem vandaag nog contact met ons op om uw op maat gemaakte meubelreis te beginnen.</div>
+              <div class={classes.seorow}>Jackk Meubels is een meubel ontwerper en maker gevestigd in Utrecht en Zeist. Met zijn unieke en handgemaakte meubelstukken weet hij keer op keer zijn klanten te verrassen en tevreden te stellen. Of je nu op zoek bent naar een prachtige eettafel, een comfortabele bank of een stijlvolle kast, bij Jackk Meubels ben je aan het juiste adres.
+
+                  Met zijn jarenlange ervaring en oog voor detail weet Jackk Meubels elk meubelstuk tot in de perfectie te maken. Daarnaast denkt hij graag met zijn klanten mee en maakt hij ook meubels op maat, zodat het perfect aansluit bij jouw wensen en interieur.
+
+                  Ben je op zoek naar unieke en hoogwaardige meubels van een getalenteerde meubel ontwerper en maker in Utrecht of Zeist? Neem dan zeker een kijkje bij Jackk Meubels en laat je verrassen door zijn vakmanschap en creativiteit. Neem vandaag nog contact op en maak een afspraak voor een persoonlijk ontwerp en advies.</div>
 
       </div>
     </React.Fragment>
