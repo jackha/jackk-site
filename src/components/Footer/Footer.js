@@ -9,7 +9,7 @@ const contact = () => {
       <div class={classes.footer}>
         <div class={`${classes.row} site-section site-contents`}>
           <div className={`${classes.footercolumn} ${classes.wide}`}>
-            <h3 id='contact'>Jackk Meubels</h3>
+                      <h3 id='contact'>Jackk Meubels</h3>
             <div className={classes.row}>
               <img className={classes.image} src={linkedin} alt='LinkedIn'></img>
               <a href='https://www.linkedin.com/in/jack-ha-0a96314/' id="linkedin-footer">Jack Ha</a>
@@ -46,12 +46,14 @@ const contact = () => {
               <div><a href="/amplivibe">Amplivibe</a></div>
             </div>
           </div>       
-        </div>       
+              </div>       
         <div class={`site-section site-contents ${classes.row}`}>
           <div class={classes.copyrightrow}>
-          &copy; 2022 Jack Ha all rights reserved
-          </div>
-        </div>       
+          &copy; 2022-2024 Jack Ha all rights reserved
+                  </div>
+              </div>   
+              <div class={classes.seorow}>Ik ontwerp en maak unieke meubels naar jouw wensen.Gevestigd in Utrecht, maar werkzaam in heel Nederland. Transformeer uw ruimte met op maat gemaakte creaties van Jackk Meubels, de toonaangevende maker en ontwerper van op maat gemaakt meubilair. Ik ontwerp en vervaardig gepersonaliseerde stukken die zijn afgestemd op uw exacte stijl wensen, functie en specificaties, waarbij voortreffelijk vakmanschap wordt gecombineerd met ongeevenaarde aandacht voor detail. Breng uw interieur naar een hoger niveau met unieke, handgemaakte meubels die uw individuele stijl weerspiegelen. Neem vandaag nog contact met ons op om uw op maat gemaakte meubelreis te beginnen.</div>
+
       </div>
     </React.Fragment>
   )
