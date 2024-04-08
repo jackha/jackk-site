@@ -15,7 +15,7 @@ import image2 from './images/hero-kamerscherm.jpg';
 import image3 from './images/hero-bench.jpg';
 import image7 from './images/hero-wandkast.jpg';
 import image8 from '../Gallery/images/slinger/de-slinger-detail1.jpg';
-import image9 from '../Gallery/images/bauhaus-home-office/jackk-meubels-utrecht-zeist-overzicht-moderne-bauhaus-kast-in-het-bos.jpg';
+import image9 from '../Gallery/images/bauhaus-home-office/jackk-meubels-utrecht-zeist-overzicht-moderne-bauhaus-kast-in-het-bos-no-logo.jpg';
 
 const image1alt = "Design Art Deco Kast | Jackk Meubels";
 const image2alt = "Design Akoestisch Kamerscherm | Jackk Meubels";
