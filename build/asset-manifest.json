@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.5d53613d.css",
-    "main.js": "/static/js/main.7bb1db97.js",
+    "main.js": "/static/js/main.2d796326.js",
     "static/js/787.c3745516.chunk.js": "/static/js/787.c3745516.chunk.js",
     "static/media/ash-inlay-shaper.jpg": "/static/media/ash-inlay-shaper.93b33f7d4d79123e6c11.jpg",
     "static/media/lego-toy-box2.jpg": "/static/media/lego-toy-box2.a09fc4ce607bda17bcfa.jpg",
@@ -34,14 +34,12 @@
     "static/media/lego-toy-box1.jpg": "/static/media/lego-toy-box1.ad2d3903c670cfcc30b0.jpg",
     "static/media/wandkast-studio.jpg": "/static/media/wandkast-studio.6dee03329498a5e734dd.jpg",
     "static/media/hero-wandkast.jpg": "/static/media/hero-wandkast.00c15a50d9f6081c1774.jpg",
-    "static/media/hero-muurkast.jpg": "/static/media/hero-muurkast.b7116ccb2293f1b8d6f7.jpg",
     "static/media/kastdeurtje.jpg": "/static/media/kastdeurtje.e2495b232d39733ed356.jpg",
     "static/media/walnut-bench1.jpg": "/static/media/walnut-bench1.6c30158e8ab695e180b8.jpg",
     "static/media/walnut-bench2.jpg": "/static/media/walnut-bench2.3f635b0110b12093a92b.jpg",
     "static/media/walnut-bench3.jpg": "/static/media/walnut-bench3.d10234622fc0422a72e3.jpg",
     "static/media/jack.jpg": "/static/media/jack.b79f7410000a90e5b38f.jpg",
     "static/media/zet_up_logo_crop.jpg": "/static/media/zet_up_logo_crop.3287252325374ce55f63.jpg",
-    "static/media/hero-bar.jpg": "/static/media/hero-bar.544ffe60983f2ef4ddf1.jpg",
     "static/media/werkkamer-zijkant.jpg": "/static/media/werkkamer-zijkant.b32f56c3fd8df2842475.jpg",
     "static/media/aankoopproces.svg": "/static/media/aankoopproces.133e11c0b4f1c32799194bdda82d1a6d.svg",
     "static/media/jackk-meubels-utrecht-zeist-overzicht-moderne-bauhaus-kast-in-het-bos.jpg": "/static/media/jackk-meubels-utrecht-zeist-overzicht-moderne-bauhaus-kast-in-het-bos.ed7ef9db452955d2d388.jpg",
@@ -64,11 +62,11 @@
     "static/media/jackk-meubels-logo.png": "/static/media/jackk-meubels-logo.944fbcddcb55da1a4f18.png",
     "index.html": "/index.html",
     "main.5d53613d.css.map": "/static/css/main.5d53613d.css.map",
-    "main.7bb1db97.js.map": "/static/js/main.7bb1db97.js.map",
+    "main.2d796326.js.map": "/static/js/main.2d796326.js.map",
     "787.c3745516.chunk.js.map": "/static/js/787.c3745516.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5d53613d.css",
-    "static/js/main.7bb1db97.js"
+    "static/js/main.2d796326.js"
   ]
 }
