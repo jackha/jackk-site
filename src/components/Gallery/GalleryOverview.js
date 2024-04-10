@@ -1,6 +1,7 @@
 import classes from './Gallery.module.css'
 import Gallery from "react-photo-gallery";
 
+import image14 from "./images/scandinavisch-tv-meubel/jackk-meubels-utrecht-design-massief-hout-tv-meubel-scandinavisch-lade-detail.jpg";
 import image13 from "./images/mid-century/jackk-meubels-utrecht-zeist-design-mid-century-inbouw-kast-woonkamer-half.jpg";
 import image12 from "./images/coffee-corner/jackk-meubels-utrecht-zeist-detail-koffie-hoek.jpg";
 import image11 from "./images/bauhaus-home-office/jackk-meubels-detail-of-modern-cabinet-zeist-utrecht.jpg";
@@ -36,6 +37,13 @@ const photos = [
         height: 1080,
         alt: "Custom wall cabinet based for bauhaus home surrounded by trees",
         data: { goto: "portfolio/bauhaus-home-office" }
+    },
+    {
+        src: image14,
+        width: 720,
+        height: 1080,
+        alt: "Jackk Meubels Utrecht Zeist scandinavisch design tv meubel lade detail",
+        data: { goto: "portfolio/scandinavisch-tv-meubel" }
     },
   {
     src: image8,
