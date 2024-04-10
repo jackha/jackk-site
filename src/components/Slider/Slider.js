@@ -17,7 +17,7 @@ import image7 from './images/hero-wandkast.jpg';
 import image8 from '../Gallery/images/slinger/de-slinger-detail1.jpg';
 import image9 from '../Gallery/images/bauhaus-home-office/jackk-meubels-utrecht-zeist-overzicht-moderne-bauhaus-kast-in-het-bos-no-logo.jpg';
 import image10 from '../Gallery/images/coffee-corner/jackk-meubels-utrecht-zeist-jack-is-bezig.jpg';
-
+import image11 from "../Gallery/images/mid-century/jackk-meubels-utrecht-zeist-design-mid-century-inbouw-kast-woonkamer-klep.jpg";
 
 const image1alt = "Design Art Deco Kast | Jackk Meubels";
 const image2alt = "Design Akoestisch Kamerscherm | Jackk Meubels";
@@ -26,6 +26,7 @@ const image7alt = "Design wandkast | Jackk Meubels";
 const image8alt = "Design boekenkast | Jackk Meubels";
 const image9alt = "Design studeerkamer kast | Jackk Meubels";
 const image10alt = "Design koffie hoek | Jackk Meubels";
+const image11alt = "Design mid-century woonkamer inbouwkast klep detail | Jackk Meubels";
 
 const app = () => {
   // const nextSlideHandler = React.useRef();
@@ -93,6 +94,13 @@ const app = () => {
                   alt: image9alt
               }}
           />
+          <Slide
+              background={{
+                  backgroundImage: image11,
+                  backgroundAttachment: "fixed",
+                  alt: image11alt
+              }}
+          />
 
       <Slide
         background={{
@@ -117,13 +125,6 @@ const app = () => {
                   alt: image10alt
               }}
           />
-      <Slide
-        background={{
-          backgroundImage: image8,
-          backgroundAttachment: "fixed",
-          alt: image8alt
-        }}
-      />
 
       <Slide
         background={{
@@ -133,13 +134,7 @@ const app = () => {
         }}
       />
 
-      <Slide
-        background={{
-          backgroundImage: image3,
-          backgroundAttachment: "fixed",
-          alt: image3alt
-        }}
-      />
+
 
       <Nav />
     </HeroSlider>

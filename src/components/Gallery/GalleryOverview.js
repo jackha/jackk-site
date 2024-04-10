@@ -1,6 +1,7 @@
 import classes from './Gallery.module.css'
 import Gallery from "react-photo-gallery";
 
+import image13 from "./images/mid-century/jackk-meubels-utrecht-zeist-design-mid-century-inbouw-kast-woonkamer-half.jpg";
 import image12 from "./images/coffee-corner/jackk-meubels-utrecht-zeist-detail-koffie-hoek.jpg";
 import image11 from "./images/bauhaus-home-office/jackk-meubels-detail-of-modern-cabinet-zeist-utrecht.jpg";
 import image10 from "./images/slinger/de-slinger-detail1.jpg";
@@ -22,6 +23,13 @@ function clickPhoto(event, photo)
 }
 
 const photos = [
+    {
+        src: image13,
+        width: 1331,
+        height: 1080,
+        alt: "Jackk Meubels Utrecht Zeist mid-century inbouwkast in de woonkamer",
+        data: { goto: "portfolio/mid-century" }
+    },
     {
         src: image11,
         width: 810,
