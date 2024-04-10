@@ -1,8 +1,9 @@
 {
   "files": {
     "main.css": "/static/css/main.acce76ab.css",
-    "main.js": "/static/js/main.5240ffbd.js",
+    "main.js": "/static/js/main.e25f18cb.js",
     "static/js/787.c3745516.chunk.js": "/static/js/787.c3745516.chunk.js",
+    "static/media/jackk-meubels-utrecht-design-massief-hout-tv-meubel-scandinavisch.png": "/static/media/jackk-meubels-utrecht-design-massief-hout-tv-meubel-scandinavisch.690adb07b5eba2b3528e.png",
     "static/media/ash-inlay-shaper.jpg": "/static/media/ash-inlay-shaper.93b33f7d4d79123e6c11.jpg",
     "static/media/lego-toy-box2.jpg": "/static/media/lego-toy-box2.a09fc4ce607bda17bcfa.jpg",
     "static/media/room-divider1.jpg": "/static/media/room-divider1.4c428faec73fb705d51a.jpg",
@@ -58,6 +59,8 @@
     "static/media/jackk-meubels-detail-of-modern-cabinet-zeist-utrecht.jpg": "/static/media/jackk-meubels-detail-of-modern-cabinet-zeist-utrecht.b2804e189b6e2c9e8281.jpg",
     "static/media/de-slinger-detail1.jpg": "/static/media/de-slinger-detail1.e57f60348d4152877a45.jpg",
     "static/media/jackk-meubels-utrecht-zeist-kersen-grepen.jpg": "/static/media/jackk-meubels-utrecht-zeist-kersen-grepen.cd5cecc5d42e9d92d1c6.jpg",
+    "static/media/jackk-meubels-utrecht-design-massief-hout-scandinavisch-bijzettafel.jpg": "/static/media/jackk-meubels-utrecht-design-massief-hout-scandinavisch-bijzettafel.a372dc21e68a3836e597.jpg",
+    "static/media/jackk-meubels-utrecht-design-massief-hout-tv-meubel-scandinavisch-lade-detail.jpg": "/static/media/jackk-meubels-utrecht-design-massief-hout-tv-meubel-scandinavisch-lade-detail.bae65998f758c5485d08.jpg",
     "static/media/jackk-meubels-utrecht-zeist-design-mid-century-inbouw-kast-woonkamer-klep.jpg": "/static/media/jackk-meubels-utrecht-zeist-design-mid-century-inbouw-kast-woonkamer-klep.4238b99cbf79b5447701.jpg",
     "static/media/wip-inlay-small.jpg": "/static/media/wip-inlay-small.c64e95195abe3d1ad488.jpg",
     "static/media/ash-inlay-shaper-small.jpg": "/static/media/ash-inlay-shaper-small.84f1b21081daf3feb38c.jpg",
@@ -67,6 +70,7 @@
     "static/media/jackk-meubels-utrecht-zeist-design-mid-century-inbouw-kast-woonkamer-overzicht.jpg": "/static/media/jackk-meubels-utrecht-zeist-design-mid-century-inbouw-kast-woonkamer-overzicht.11b6d423db5f28dd2068.jpg",
     "static/media/jackk-meubels-utrecht-zeist-design-mid-century-inbouw-kast-woonkamer-luik.jpg": "/static/media/jackk-meubels-utrecht-zeist-design-mid-century-inbouw-kast-woonkamer-luik.aa37eafc48749cf353e3.jpg",
     "static/media/jackk-meubels-utrecht-zeist-detail-koffie-hoek.jpg": "/static/media/jackk-meubels-utrecht-zeist-detail-koffie-hoek.6bdf2911089f622ddfc4.jpg",
+    "static/media/jackk-meubels-utrecht-design-massief-hout-tv-meubel-scandinavisch-studio.jpg": "/static/media/jackk-meubels-utrecht-design-massief-hout-tv-meubel-scandinavisch-studio.762354fd6703c1f47560.jpg",
     "static/media/mailbox-final.jfif": "/static/media/mailbox-final.d7f0f009206ff66613f2.jfif",
     "static/media/zet_up_logo_collage.jfif": "/static/media/zet_up_logo_collage.a838cee61bef2c008cbc.jfif",
     "static/media/jackk-meubels-utrecht-zeist-design-mid-century-inbouw-kast-woonkamer-cd-voorkant.jpg": "/static/media/jackk-meubels-utrecht-zeist-design-mid-century-inbouw-kast-woonkamer-cd-voorkant.4170901f5809ba7cdca1.jpg",
@@ -77,11 +81,11 @@
     "static/media/jackk-meubels-logo.png": "/static/media/jackk-meubels-logo.944fbcddcb55da1a4f18.png",
     "index.html": "/index.html",
     "main.acce76ab.css.map": "/static/css/main.acce76ab.css.map",
-    "main.5240ffbd.js.map": "/static/js/main.5240ffbd.js.map",
+    "main.e25f18cb.js.map": "/static/js/main.e25f18cb.js.map",
     "787.c3745516.chunk.js.map": "/static/js/787.c3745516.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.acce76ab.css",
-    "static/js/main.5240ffbd.js"
+    "static/js/main.e25f18cb.js"
   ]
 }
