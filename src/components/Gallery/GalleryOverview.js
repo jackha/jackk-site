@@ -1,6 +1,7 @@
 import classes from './Gallery.module.css'
 import Gallery from "react-photo-gallery";
 
+import image15 from "./images/modern-tv-meubel/jackk-meubels-utrecht-modern-tv-meubel-studio.jpg";
 import image14 from "./images/scandinavisch-tv-meubel/jackk-meubels-utrecht-design-massief-hout-tv-meubel-scandinavisch-lade-detail.jpg";
 import image13 from "./images/mid-century/jackk-meubels-utrecht-zeist-design-mid-century-inbouw-kast-woonkamer-half.jpg";
 import image12 from "./images/coffee-corner/jackk-meubels-utrecht-zeist-detail-koffie-hoek.jpg";
@@ -42,8 +43,15 @@ const photos = [
         src: image14,
         width: 720,
         height: 1080,
-        alt: "Jackk Meubels Utrecht Zeist scandinavisch design tv meubel lade detail",
+        alt: "Jackk Meubels Utrecht Zeist modern design tv meubel lade detail",
         data: { goto: "portfolio/scandinavisch-tv-meubel" }
+    },
+    {
+        src: image15,
+        width: 1226,
+        height: 1080,
+        alt: "Jackk Meubels Utrecht Zeist modern design tv meubel met schuine kant en massief notenhout",
+        data: { goto: "portfolio/modern-tv-meubel" }
     },
   {
     src: image8,
