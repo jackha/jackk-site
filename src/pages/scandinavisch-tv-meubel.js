@@ -20,7 +20,7 @@ function ScandinavianDresserPage() {
               </p>
 
               <p className='site-contents testimonial'>
-                  We spraken bij mij thuis af voor het ori&euml;ntatiegesprek (zie: <NavigateButton text="proces" class="navigate-inline" link="/process"/>) zodat Jack een indruk kon krijgen van mijn huidig interieur en de ruimte waar het meubel geplaats zou moeten worden. Jack vroeg mij vervolgens nog van alles over de functie en afmetingen die de kast moest hebben, de 
+                  We spraken bij mij thuis af voor het ori&euml;ntatiegesprek (zie: <NavigateButton text="proces" class="navigate-inline" link="/process" />) zodat Jack een indruk kon krijgen van mijn huidig interieur en de ruimte waar het meubel geplaats zou moeten worden.Jack vroeg mij vervolgens nog van alles over de functie en afmetingen die de kast moest hebben, de vorm, kleur en voorkeur voor houtsoorten. 
               </p>
 
               <p className='site-contents testimonial'>
