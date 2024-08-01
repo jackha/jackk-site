@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.acce76ab.css",
-    "main.js": "/static/js/main.d4a6545a.js",
+    "main.js": "/static/js/main.38247648.js",
     "static/js/787.c3745516.chunk.js": "/static/js/787.c3745516.chunk.js",
     "static/media/jackk-meubels-utrecht-design-massief-hout-tv-meubel-scandinavisch.png": "/static/media/jackk-meubels-utrecht-design-massief-hout-tv-meubel-scandinavisch.690adb07b5eba2b3528e.png",
     "static/media/jackk-meubels-george-en-jack-eettafel-eetbank-totaal.jpg": "/static/media/jackk-meubels-george-en-jack-eettafel-eetbank-totaal.3476d7d51fec6ece787e.jpg",
@@ -59,6 +59,7 @@
     "static/media/jackk-meubels-zeist-utrecht-detail-of-modern-cabinet-front.jpg": "/static/media/jackk-meubels-zeist-utrecht-detail-of-modern-cabinet-front.14a29c62c1ef8e88ba4a.jpg",
     "static/media/jack-at-work.jpg": "/static/media/jack-at-work.c179f771215a8f9c7f92.jpg",
     "static/media/jackk-meubels-eettafel-eetbank-essen-kersen-schuin.jpg": "/static/media/jackk-meubels-eettafel-eetbank-essen-kersen-schuin.d65be6d2c028bd2c3155.jpg",
+    "static/media/jackk-meubels-slanty-minibar-solid-cherry-wood-slanted-front-stocked.jpg": "/static/media/jackk-meubels-slanty-minibar-solid-cherry-wood-slanted-front-stocked.0bfe0e827386f52cd608.jpg",
     "static/media/jackk-meubels-detail-of-modern-cabinet-zeist-utrecht.jpg": "/static/media/jackk-meubels-detail-of-modern-cabinet-zeist-utrecht.b2804e189b6e2c9e8281.jpg",
     "static/media/jackk-meubels-utrecht-modern-tv-meubel-lade.jpg": "/static/media/jackk-meubels-utrecht-modern-tv-meubel-lade.c6ea0a7675c7d4a764b0.jpg",
     "static/media/jackk-meubels-eettafel-eetbank-essen-kersen-onder-een-hoek.jpg": "/static/media/jackk-meubels-eettafel-eetbank-essen-kersen-onder-een-hoek.3d60941bc66da073d951.jpg",
@@ -68,10 +69,13 @@
     "static/media/jackk-meubels-utrecht-design-massief-hout-scandinavisch-bijzettafel.jpg": "/static/media/jackk-meubels-utrecht-design-massief-hout-scandinavisch-bijzettafel.a372dc21e68a3836e597.jpg",
     "static/media/jackk-meubels-utrecht-modern-tv-meubel-jack-bezig.jpg": "/static/media/jackk-meubels-utrecht-modern-tv-meubel-jack-bezig.6ae602a26b5f4ceef6f8.jpg",
     "static/media/jackk-meubels-utrecht-modern-tv-meubel-studio.jpg": "/static/media/jackk-meubels-utrecht-modern-tv-meubel-studio.95e413ae74190e45a008.jpg",
+    "static/media/jackk-meubels-slanty-minibar-solid-cherry-wood-top.jpg": "/static/media/jackk-meubels-slanty-minibar-solid-cherry-wood-top.421d29999eb760c054f9.jpg",
+    "static/media/jackk-meubels-slanty-minibar-solid-cherry-wood-slanted-front-zoom.jpg": "/static/media/jackk-meubels-slanty-minibar-solid-cherry-wood-slanted-front-zoom.d5c10eb45643629884ab.jpg",
     "static/media/jackk-meubels-utrecht-design-massief-hout-tv-meubel-scandinavisch-lade-detail.jpg": "/static/media/jackk-meubels-utrecht-design-massief-hout-tv-meubel-scandinavisch-lade-detail.bae65998f758c5485d08.jpg",
     "static/media/jackk-meubels-utrecht-zeist-design-mid-century-inbouw-kast-woonkamer-klep.jpg": "/static/media/jackk-meubels-utrecht-zeist-design-mid-century-inbouw-kast-woonkamer-klep.4238b99cbf79b5447701.jpg",
     "static/media/wip-inlay-small.jpg": "/static/media/wip-inlay-small.c64e95195abe3d1ad488.jpg",
     "static/media/ash-inlay-shaper-small.jpg": "/static/media/ash-inlay-shaper-small.84f1b21081daf3feb38c.jpg",
+    "static/media/jackk-meubels-slanty-minibar-solid-cherry-wood-slanted-front-1.jpg": "/static/media/jackk-meubels-slanty-minibar-solid-cherry-wood-slanted-front-1.ce3c2fdeea873278cd50.jpg",
     "static/media/jackk-meubels-utrecht-zeist-design-coffee-corner-ash-cherry-with-rounding-total2.jpg": "/static/media/jackk-meubels-utrecht-zeist-design-coffee-corner-ash-cherry-with-rounding-total2.56a09035577e0bc7b71d.jpg",
     "static/media/jackk-meubels-utrecht-zeist-design-mid-century-inbouw-kast-woonkamer-overzicht2.jpg": "/static/media/jackk-meubels-utrecht-zeist-design-mid-century-inbouw-kast-woonkamer-overzicht2.8c667cc75014e8b852d2.jpg",
     "static/media/walnut-cabinet1-small.jpg": "/static/media/walnut-cabinet1-small.c41f1137c302c60020f6.jpg",
@@ -83,6 +87,7 @@
     "static/media/zet_up_logo_collage.jfif": "/static/media/zet_up_logo_collage.a838cee61bef2c008cbc.jfif",
     "static/media/jackk-meubels-utrecht-zeist-design-mid-century-inbouw-kast-woonkamer-cd-voorkant.jpg": "/static/media/jackk-meubels-utrecht-zeist-design-mid-century-inbouw-kast-woonkamer-cd-voorkant.4170901f5809ba7cdca1.jpg",
     "static/media/de-slinger-detail2.jpg": "/static/media/de-slinger-detail2.e578d6e17aab0ec427a7.jpg",
+    "static/media/jackk-meubels-slanty-minibar-solid-cherry-wood-slanted-front-2.jpg": "/static/media/jackk-meubels-slanty-minibar-solid-cherry-wood-slanted-front-2.8724bd731dde56ee8702.jpg",
     "static/media/jackk-meubels-zeist-utrecht-studio-shot-of-modern-cabinet.jpg": "/static/media/jackk-meubels-zeist-utrecht-studio-shot-of-modern-cabinet.e65ddda8e740fc91fa44.jpg",
     "static/media/de-slinger-totaal.jpg": "/static/media/de-slinger-totaal.eb550d0fd6752e801fd9.jpg",
     "static/media/jackk-meubels-eetbank-essen-kersen-schuin.jpg": "/static/media/jackk-meubels-eetbank-essen-kersen-schuin.a07d808981dda744ad39.jpg",
@@ -90,11 +95,11 @@
     "static/media/jackk-meubels-logo.png": "/static/media/jackk-meubels-logo.944fbcddcb55da1a4f18.png",
     "index.html": "/index.html",
     "main.acce76ab.css.map": "/static/css/main.acce76ab.css.map",
-    "main.d4a6545a.js.map": "/static/js/main.d4a6545a.js.map",
+    "main.38247648.js.map": "/static/js/main.38247648.js.map",
     "787.c3745516.chunk.js.map": "/static/js/787.c3745516.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.acce76ab.css",
-    "static/js/main.d4a6545a.js"
+    "static/js/main.38247648.js"
   ]
 }
