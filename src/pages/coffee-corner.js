@@ -14,14 +14,21 @@ function CoffeeCornerPage() {
             <div className='site-section'>
                 <h1 className='site-contents'>De speciale koffie hoek</h1>
 
-                <p className='site-contents'>
-                    Dit project was zeer uniek. Reeds bestaand meubilair moest aangepast worden om plaats te maken voor iets nieuws. De samenwerking tussen de klant en mij zorgt voor de oplossing op maat die de bruikbaarheid en uitstraling van het meubel optimaliseert.
-                </p>
 
+                <p className='site-contents testimonial'>
+                    We zijn erg blij met het resultaat van de co-creatie. Ons Verzamelgebouw Reeuwijk staat voor: "Ondernemen in een gespreid bedje." De mede-ondernemers, snel en stabiel internet EN goede koffie zijn daarvan de drie belangrijkste pijlers. En daar past de "Omarming" (zo heet het meubel) heel erg mooi bij! (Waarbij de koffiemachines natuurlijk worden gevoed door onze eigen zonne-energie.)
+                </p>
+                <p className='site-contents'>
+                    ~Johan de Haas, mede-eigenaar Verzamelgebouw Reeuwijk.
+                </p>
 
             </div>
             <ImageMagnify image_small={image1} image={image1} alt="Jackk Meubels Utrecht Zeist totaal koffie hoek met essen spijlers en kersen blad" ratio="0.67" />
             <div>
+
+                <p className='site-contents'>
+                    Dit project was zeer uniek. Reeds bestaand meubilair moest aangepast worden om plaats te maken voor iets nieuws. De samenwerking tussen de klant en mij zorgt voor de oplossing op maat die de bruikbaarheid en uitstraling van het meubel optimaliseert.
+                </p>
                 <p className='site-contents'>
                     In het uiteindelijke ontwerp zijn we uitgekomen op spijlers die tot aan het plafond lopen, gemaakt van essenhout. Het blad is gemaakt van kersen, welke aansluit op huidig meubilair. Wat het meubel wellicht het meest bijzonder maakt is de kwart ronde achterkant. Deze zorgt ervoor dat het meubel wat lichter oogt en geen blok voor je zicht vormt, terwijl je wel een soort nisje vormt waar men lekker koffie kan halen.
                 </p>            
