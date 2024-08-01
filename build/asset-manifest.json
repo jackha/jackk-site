@@ -1,9 +1,10 @@
 {
   "files": {
     "main.css": "/static/css/main.acce76ab.css",
-    "main.js": "/static/js/main.e531bf04.js",
+    "main.js": "/static/js/main.8d6795db.js",
     "static/js/787.c3745516.chunk.js": "/static/js/787.c3745516.chunk.js",
     "static/media/jackk-meubels-utrecht-design-massief-hout-tv-meubel-scandinavisch.png": "/static/media/jackk-meubels-utrecht-design-massief-hout-tv-meubel-scandinavisch.690adb07b5eba2b3528e.png",
+    "static/media/jackk-meubels-george-en-jack-eettafel-eetbank-totaal.jpg": "/static/media/jackk-meubels-george-en-jack-eettafel-eetbank-totaal.3476d7d51fec6ece787e.jpg",
     "static/media/ash-inlay-shaper.jpg": "/static/media/ash-inlay-shaper.93b33f7d4d79123e6c11.jpg",
     "static/media/lego-toy-box2.jpg": "/static/media/lego-toy-box2.a09fc4ce607bda17bcfa.jpg",
     "static/media/room-divider1.jpg": "/static/media/room-divider1.4c428faec73fb705d51a.jpg",
@@ -57,8 +58,10 @@
     "static/media/jackk-meubels-utrecht-modern-tv-meubel-binnenwerk.jpg": "/static/media/jackk-meubels-utrecht-modern-tv-meubel-binnenwerk.ea7e62434a085470121e.jpg",
     "static/media/jackk-meubels-zeist-utrecht-detail-of-modern-cabinet-front.jpg": "/static/media/jackk-meubels-zeist-utrecht-detail-of-modern-cabinet-front.14a29c62c1ef8e88ba4a.jpg",
     "static/media/jack-at-work.jpg": "/static/media/jack-at-work.c179f771215a8f9c7f92.jpg",
+    "static/media/jackk-meubels-eettafel-eetbank-essen-kersen-schuin.jpg": "/static/media/jackk-meubels-eettafel-eetbank-essen-kersen-schuin.d65be6d2c028bd2c3155.jpg",
     "static/media/jackk-meubels-detail-of-modern-cabinet-zeist-utrecht.jpg": "/static/media/jackk-meubels-detail-of-modern-cabinet-zeist-utrecht.b2804e189b6e2c9e8281.jpg",
     "static/media/jackk-meubels-utrecht-modern-tv-meubel-lade.jpg": "/static/media/jackk-meubels-utrecht-modern-tv-meubel-lade.c6ea0a7675c7d4a764b0.jpg",
+    "static/media/jackk-meubels-eettafel-eetbank-essen-kersen-onder-een-hoek.jpg": "/static/media/jackk-meubels-eettafel-eetbank-essen-kersen-onder-een-hoek.3d60941bc66da073d951.jpg",
     "static/media/de-slinger-detail1.jpg": "/static/media/de-slinger-detail1.e57f60348d4152877a45.jpg",
     "static/media/jackk-meubels-utrecht-modern-tv-meubel-verlichting.jpg": "/static/media/jackk-meubels-utrecht-modern-tv-meubel-verlichting.be52e4ba82a1eb42e783.jpg",
     "static/media/jackk-meubels-utrecht-zeist-kersen-grepen.jpg": "/static/media/jackk-meubels-utrecht-zeist-kersen-grepen.cd5cecc5d42e9d92d1c6.jpg",
@@ -82,15 +85,16 @@
     "static/media/de-slinger-detail2.jpg": "/static/media/de-slinger-detail2.e578d6e17aab0ec427a7.jpg",
     "static/media/jackk-meubels-zeist-utrecht-studio-shot-of-modern-cabinet.jpg": "/static/media/jackk-meubels-zeist-utrecht-studio-shot-of-modern-cabinet.e65ddda8e740fc91fa44.jpg",
     "static/media/de-slinger-totaal.jpg": "/static/media/de-slinger-totaal.eb550d0fd6752e801fd9.jpg",
+    "static/media/jackk-meubels-eetbank-essen-kersen-schuin.jpg": "/static/media/jackk-meubels-eetbank-essen-kersen-schuin.a07d808981dda744ad39.jpg",
     "static/media/jackk-meubels-utrecht-zeist-design-mid-century-inbouw-kast-woonkamer-zwaluw-staart.jpg": "/static/media/jackk-meubels-utrecht-zeist-design-mid-century-inbouw-kast-woonkamer-zwaluw-staart.33e3e85f5290d6f21f94.jpg",
     "static/media/jackk-meubels-logo.png": "/static/media/jackk-meubels-logo.944fbcddcb55da1a4f18.png",
     "index.html": "/index.html",
     "main.acce76ab.css.map": "/static/css/main.acce76ab.css.map",
-    "main.e531bf04.js.map": "/static/js/main.e531bf04.js.map",
+    "main.8d6795db.js.map": "/static/js/main.8d6795db.js.map",
     "787.c3745516.chunk.js.map": "/static/js/787.c3745516.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.acce76ab.css",
-    "static/js/main.e531bf04.js"
+    "static/js/main.8d6795db.js"
   ]
 }
