@@ -17,7 +17,7 @@ import image9 from '../Gallery/images/bauhaus-home-office/jackk-meubels-utrecht-
 import image10 from '../Gallery/images/coffee-corner/jackk-meubels-utrecht-zeist-jack-is-bezig.jpg';
 import image11 from "../Gallery/images/mid-century/jackk-meubels-utrecht-zeist-design-mid-century-inbouw-kast-woonkamer-klep.jpg";
 import image12 from "../Gallery/images/modern-tv-meubel/jackk-meubels-utrecht-modern-tv-meubel-verlichting.jpg";
-
+import image13 from "../Gallery/images/origami-table-bench/jackk-meubels-eettafel-eetbank-essen-kersen-schuin.jpg";
 
 const image1alt = "Design Art Deco Kast | Jackk Meubels";
 const image2alt = "Design Akoestisch Kamerscherm | Jackk Meubels";
@@ -26,6 +26,7 @@ const image9alt = "Design studeerkamer kast | Jackk Meubels";
 const image10alt = "Design koffie hoek | Jackk Meubels";
 const image11alt = "Design mid-century woonkamer inbouwkast klep detail | Jackk Meubels";
 const image12alt = "Design modern tv meubel met verlichting | Jackk Meubels";
+const image13alt = "Design eettafel en eetbank Origami, gemaakt van massief essen en kersen | Jackk Meubels Utrecht Zeist";
 
 const app = () => {
   // const nextSlideHandler = React.useRef();
@@ -85,7 +86,13 @@ const app = () => {
         </Wrapper>
       </OverlayContainer>
 
-
+          <Slide
+              background={{
+                  backgroundImage: image13,
+                  backgroundAttachment: "fixed",
+                  alt: image13alt
+              }}
+          />
           <Slide
               background={{
                   backgroundImage: image9,

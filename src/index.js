@@ -9,6 +9,7 @@ import GeaZwartPage from "./pages/gea-zwart";
 import BauhausHomeOfficePage from "./pages/bauhaus-home-office";
 import MidCenturyPage from "./pages/mid-century";
 import ScandinavianDresserPage from "./pages/scandinavisch-tv-meubel";
+import OrigamiTableBenchPage from "./pages/origami-table-bench";
 import ModernTvFurniturePage from "./pages/modern-tv-meubel";
 import CoffeeCornerPage from "./pages/coffee-corner";
 import HomeOfficePage from "./pages/home-office";
@@ -42,6 +43,7 @@ ReactDOM.render(
                     <Route path="portfolio/mid-century" element={<MidCenturyPage />} />
                     <Route path="portfolio/scandinavisch-tv-meubel" element={<ScandinavianDresserPage />} />
                     <Route path="portfolio/modern-tv-meubel" element={<ModernTvFurniturePage />} />
+                    <Route path="portfolio/origami-table-bench" element={<OrigamiTableBenchPage />} />
           <Route path="portfolio/coffee-corner" element={<CoffeeCornerPage />} />
           <Route path="portfolio/home-office" element={<HomeOfficePage />} />
           <Route path="portfolio/bauhaus-home-office" element={<BauhausHomeOfficePage />} />

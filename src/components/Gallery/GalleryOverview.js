@@ -1,6 +1,8 @@
 import classes from './Gallery.module.css'
 import Gallery from "react-photo-gallery";
 
+
+import image16 from "./images/origami-table-bench/jackk-meubels-eettafel-eetbank-essen-kersen-schuin.jpg";
 import image15 from "./images/modern-tv-meubel/jackk-meubels-utrecht-modern-tv-meubel-studio.jpg";
 import image14 from "./images/scandinavisch-tv-meubel/jackk-meubels-utrecht-design-massief-hout-tv-meubel-scandinavisch-lade-detail.jpg";
 import image13 from "./images/mid-century/jackk-meubels-utrecht-zeist-design-mid-century-inbouw-kast-woonkamer-half.jpg";
@@ -25,6 +27,13 @@ function clickPhoto(event, photo)
 }
 
 const photos = [
+    {
+        src: image16,
+        width: 1620,
+        height: 1080,
+        alt: "Jackk Meubels Utrecht Zeist design eettafel en eetbank Origami, gemaakt van massief essen en kersen",
+        data: { goto: "portfolio/origami-table-bench" }
+    },
     {
         src: image13,
         width: 1331,
