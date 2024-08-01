@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.acce76ab.css",
-    "main.js": "/static/js/main.c395eb5f.js",
+    "main.js": "/static/js/main.e531bf04.js",
     "static/js/787.c3745516.chunk.js": "/static/js/787.c3745516.chunk.js",
     "static/media/jackk-meubels-utrecht-design-massief-hout-tv-meubel-scandinavisch.png": "/static/media/jackk-meubels-utrecht-design-massief-hout-tv-meubel-scandinavisch.690adb07b5eba2b3528e.png",
     "static/media/ash-inlay-shaper.jpg": "/static/media/ash-inlay-shaper.93b33f7d4d79123e6c11.jpg",
@@ -86,11 +86,11 @@
     "static/media/jackk-meubels-logo.png": "/static/media/jackk-meubels-logo.944fbcddcb55da1a4f18.png",
     "index.html": "/index.html",
     "main.acce76ab.css.map": "/static/css/main.acce76ab.css.map",
-    "main.c395eb5f.js.map": "/static/js/main.c395eb5f.js.map",
+    "main.e531bf04.js.map": "/static/js/main.e531bf04.js.map",
     "787.c3745516.chunk.js.map": "/static/js/787.c3745516.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.acce76ab.css",
-    "static/js/main.c395eb5f.js"
+    "static/js/main.e531bf04.js"
   ]
 }
