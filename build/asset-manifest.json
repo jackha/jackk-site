@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.acce76ab.css",
-    "main.js": "/static/js/main.8d6795db.js",
+    "main.js": "/static/js/main.d4a6545a.js",
     "static/js/787.c3745516.chunk.js": "/static/js/787.c3745516.chunk.js",
     "static/media/jackk-meubels-utrecht-design-massief-hout-tv-meubel-scandinavisch.png": "/static/media/jackk-meubels-utrecht-design-massief-hout-tv-meubel-scandinavisch.690adb07b5eba2b3528e.png",
     "static/media/jackk-meubels-george-en-jack-eettafel-eetbank-totaal.jpg": "/static/media/jackk-meubels-george-en-jack-eettafel-eetbank-totaal.3476d7d51fec6ece787e.jpg",
@@ -90,11 +90,11 @@
     "static/media/jackk-meubels-logo.png": "/static/media/jackk-meubels-logo.944fbcddcb55da1a4f18.png",
     "index.html": "/index.html",
     "main.acce76ab.css.map": "/static/css/main.acce76ab.css.map",
-    "main.8d6795db.js.map": "/static/js/main.8d6795db.js.map",
+    "main.d4a6545a.js.map": "/static/js/main.d4a6545a.js.map",
     "787.c3745516.chunk.js.map": "/static/js/787.c3745516.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.acce76ab.css",
-    "static/js/main.8d6795db.js"
+    "static/js/main.d4a6545a.js"
   ]
 }

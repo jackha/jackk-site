@@ -6,7 +6,12 @@ const testimonials = () => {
   return (
     <React.Fragment>
       <div className='site-section'>
-        <h3 className='site-contents title'>Wat klanten vinden</h3>
+              <h3 className='site-contents title'>Wat klanten vinden</h3>
+              <div className={`${classes.row} ${classes.block} site-contents `}>
+                  <div className='testimonial'>“Ik was erg gecharmeerd van dit ontwerp met zijn luchtige, strakke lijnen want wat ik niet wilde was een lompe massieve stamtafel. De combinatie van kers en essen maakt het nog extra speels.”</div>
+                  <div className='testimonialname'>~ George Holsheimer - Amsterdam</div>
+              </div>      
+
         <div className={`${classes.row} ${classes.block} site-contents ` }>
           <div className='testimonial'>“Wij zijn echt onder de indruk van je ontwerpen, ze zijn er mooier uitgekomen dan gedacht. Je hebt onze wensen goed verwerkt en echt over veel zaken nagedacht.”</div>
           <div className='testimonialname'>~ Jackson & Shareen - Utrecht</div>
