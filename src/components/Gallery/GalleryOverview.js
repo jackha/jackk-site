@@ -2,6 +2,7 @@ import classes from './Gallery.module.css'
 import Gallery from "react-photo-gallery";
 
 
+import image17 from "./images/slanty-mini-bar/jackk-meubels-slanty-minibar-solid-cherry-wood-slanted-front-zoom.jpg";
 import image16 from "./images/origami-table-bench/jackk-meubels-eettafel-eetbank-essen-kersen-schuin.jpg";
 import image15 from "./images/modern-tv-meubel/jackk-meubels-utrecht-modern-tv-meubel-studio.jpg";
 import image14 from "./images/scandinavisch-tv-meubel/jackk-meubels-utrecht-design-massief-hout-tv-meubel-scandinavisch-lade-detail.jpg";
@@ -27,6 +28,7 @@ function clickPhoto(event, photo)
 }
 
 const photos = [
+
     {
         src: image16,
         width: 1620,
@@ -47,6 +49,13 @@ const photos = [
         height: 1080,
         alt: "Custom wall cabinet based for bauhaus home surrounded by trees",
         data: { goto: "portfolio/bauhaus-home-office" }
+    },
+    {
+        src: image17,
+        width: 1620,
+        height: 1080,
+        alt: "Jackk Meubels Utrecht Zeist design minibar Slanty met massief kersen top",
+        data: { goto: "portfolio/slanty-mini-bar" }
     },
     {
         src: image14,
